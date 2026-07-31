@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Start Energy AI - Panel de Optimización Fotovoltaica</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <!-- Chart.js para los gráficos interactivos -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 font-sans antialiased min-h-screen flex flex-col">
+
+    <!-- Header / Navbar -->
+    <header class="border-b border-slate-800 bg-slate-900/50 backdrop-blur-md sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center space-x-3">
+                <div class="bg-emerald-500/10 p-2 rounded-xl border border-emerald-500/20">
+                    <i data-lucide="sun" class="w-6 h-6 text-emerald-400"></i>
+                </div>
+                <div>
+                    <h1 class="font-bold text-lg tracking-tight bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">Start Energy AI</h1>
+                    <p class="text-xs text-slate-400">Predicción y Consumo Inteligente</p>
+                </div>
+            </div>
+            <div class="flex items-center gap-3">
+                <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                    <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span> Sistema Activo
+                </span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8">
+
+        <!-- Métricas Rápidas (KPIs) -->
+        <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div class="bg-slate-900/80 border border-slate-800/80 rounded-2xl p-5 shadow-lg backdrop-blur-sm relative overflow-hidden">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Generación Solar Actual</p>
+                        <h3 class="text-2xl font-extrabold text-slate-100 mt-1" id="kpi-gen">3.4 kW</h3>
+                    </div>
+                    <div class="p-3 bg-amber-500/10 rounded-xl text-amber-400 border border-amber-500/20">
+                        <i data-lucide="zap" class="w-5 h-5"></i>
+                    </div>
+                </div>
+                <div class="mt-3 flex items-center text-xs text-emerald-400">
+                    <i data-lucide="trending-up" class="w-3.5 h-3.5 mr-1"></i> +12% vs ayer a esta hora
+                </div>
+            </div>
+
+            <div class="bg-slate-900/80 border border-slate-800/80 rounded-2xl p-5 shadow-lg backdrop-blur-sm relative overflow-hidden">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Consumo Actual</p>
+                        <h3 class="text-2xl font-extrabold text-slate-100 mt-1" id="kpi-cons">1.8 kW</h3>
+                    </div>
+                    <div class="p-3 bg-cyan-500/10 rounded-xl text-cyan-400 border border-cyan-500/20">
+                        <i data-lucide="home" class="w-5 h-5"></i>
+                    </div>
+                </div>
+                <div class="mt-3 flex items-center text-xs text-cyan-400">
+                    <i data-lucide="activity" class="w-3.5 h-3.5 mr-1"></i> Hogar optimizado
+                </div>
+            </div>
+
+            <div class="bg-slate-900/80 border border-slate-800/80 rounded-2xl p-5 shadow-lg backdrop-blur-sm relative overflow-hidden">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Excedente IA (Neto)</p>
+                        <h3 class="text-2xl font-extrabold text-emerald-400 mt-1" id="kpi-exc">+1.6 kW</h3>
+                    </div>
+                    <div class="p-3 bg-emerald-500/10 rounded-xl text-emerald-400 border border-emerald-500/20">
+                        <i data-lucide="battery-charging" class="w-5 h-5"></i>
+                    </div>
+                </div>
+                <div class="mt-3 flex items-center text-xs text-emerald-400">
+                    <i data-lucide="check-circle-2" class="w-3.5 h-3.5 mr-1"></i> Ahorro máximo estimado
+                </div>
+            </div>
+
+            <div class="bg-slate-900/80 border border-slate-800/80 rounded-2xl p-5 shadow-lg backdrop-blur-sm relative overflow-hidden">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Ahorro Mensual Est.</p>
+                        <h3 class="text-2xl font-extrabold text-cyan-400 mt-1">68.40 €</h3>
+                    </div>
+                    <div class="p-3 bg-indigo-500/10 rounded-xl text-indigo-400 border border-indigo-500/20">
+                        <i data-lucide="piggy-bank" class="w-5 h-5"></i>
+                    </div>
+                </div>
+                <div class="mt-3 flex items-center text-xs text-indigo-400">
+                    <i data-lucide="shield-check" class="w-3.5 h-3.5 mr-1"></i> Eficiencia del 94%
+                </div>
+            </div>
+        </section>
+
+        <!-- Sección de Gráfico Principal y Panel de Control IA -->
+        <section class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            
+            <!-- Gráfico de Predicción (2 Cols) -->
+            <div class="lg:col-span-2 bg-slate-900/80 border border-slate-800/80 rounded-2xl p-6 shadow-lg backdrop-blur-sm flex flex-col justify-between">
+                <div class="flex items-center justify-between mb-4">
+                    <div>
+                        <h2 class="text-lg font-bold text-slate-100">Predicción de Generación vs Consumo (24h)</h2>
+                        <p class="text-xs text-slate-400">Modelo de Machine Learning entrenado con datos meteorológicos y AEMET</p>
+                    </div>
+                    <button onclick="actualizarSimulacion()" class="px-3 py-1.5 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-semibold text-xs rounded-xl transition flex items-center gap-1.5 shadow-lg shadow-emerald-500/20 cursor-pointer">
+                        <i data-lucide="refresh-cw" class="w-3.5 h-3.5"></i> Recalcular IA
+                    </button>
+                </div>
+                <div class="relative h-72 w-full">
+                    <canvas id="energyChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Panel de Alertas y Recomendaciones Inteligentes (1 Col) -->
+            <div class="bg-slate-900/80 border border-slate-800/80 rounded-2xl p-6 shadow-lg backdrop-blur-sm flex flex-col justify-between space-y-4">
+                <div>
+                    <div class="flex items-center justify-between mb-4">
+                        <h2 class="text-lg font-bold text-slate-100 flex items-center gap-2">
+                            <i data-lucide="sparkles" class="w-5 h-5 text-emerald-400"></i> Alertas de Excedentes
+                        </h2>
+                    </div>
+                    <p class="text-xs text-slate-400 mb-4">Recomendaciones automatizadas para evitar vertidos y maximizar tu autoconsumo:</p>
+                    
+                    <div class="space-y-3">
+                        <div class="p-3.5 bg-emerald-500/10 border border-emerald-500/20 rounded-xl space-y-1">
+                            <div class="flex items-center justify-between text-xs font-semibold text-emerald-400">
+                                <span class="flex items-center gap-1.5"><i data-lucide="clock" class="w-3.5 h-3.5"></i> 13:00 - 16:00 h</span>
+                                <span class="bg-emerald-500/20 px-2 py-0.5 rounded text-[10px]">Pico Óptimo</span>
+                            </div>
+                            <p class="text-xs text-slate-300">Programa la lavadora o el lavavajillas. Tendrás un excedente solar estimado de +2.8 kW.</p>
+                        </div>
+
+                        <div class="p-3.5 bg-amber-500/10 border border-amber-500/20 rounded-xl space-y-1">
+                            <div class="flex items-center justify-between text-xs font-semibold text-amber-400">
+                                <span class="flex items-center gap-1.5"><i data-lucide="clock" class="w-3.5 h-3.5"></i> 18:00 h en adelante</span>
+                                <span class="bg-amber-500/20 px-2 py-0.5 rounded text-[10px]">Batería Recomendada</span>
+                            </div>
+                            <p class="text-xs text-slate-300">La generación decae. Se recomienda verter a red o usar energía almacenada.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <button onclick="ejecutarAsistente()" class="w-full py-3 bg-gradient-to-r from-emerald-500 to-cyan-500 hover:from-emerald-600 hover:to-cyan-600 text-slate-950 font-bold text-xs rounded-xl transition shadow-lg shadow-emerald-500/20 flex items-center justify-center gap-2 cursor-pointer">
+                    <i data-lucide="cpu" class="w-4 h-4"></i> Optimizar mi día automáticamente
+                </button>
+            </div>
+        </section>
+
+        <!-- Panel de Configuración e Inserción de Parámetros -->
+        <section class="bg-slate-900/80 border border-slate-800/80 rounded-2xl p-6 shadow-lg backdrop-blur-sm">
+            <h2 class="text-lg font-bold text-slate-100 mb-1">Configuración de Instalación</h2>
+            <p class="text-xs text-slate-400 mb-6">Ajusta los parámetros de tus paneles solares para calibrar el algoritmo predictivo local en LocalStorage.</p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div>
+                    <label class="block text-xs font-medium text-slate-300 mb-2">Potencia Instalada (kW)</label>
+                    <input type="number" id="input-potencia" value="4.5" step="0.5" class="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-emerald-500 transition">
+                </div>
+                <div>
+                    <label class="block text-xs font-medium text-slate-300 mb-2">Inclinación de Paneles (°)</label>
+                    <input type="number" id="input-inclinacion" value="30" class="w-full bg-slate-950 border border-slate-800 rounded-xl px-4 py-2.5 text-sm text-slate-100 focus:outline-none focus:border-emerald-500 transition">
+                </div>
+                <div class="flex items-end">
+                    <button onclick="guardarConfiguracion()" class="w-full py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-100 font-semibold text-xs rounded-xl transition border border-slate-700 flex items-center justify-center gap-2 cursor-pointer">
+                        <i data-lucide="save" class="w-4 h-4 text-emerald-400"></i> Guardar Cambios
+                    </button>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-slate-800 py-6 text-center text-xs text-slate-500">
+        Start Energy AI &copy; 2026 — Proyecto Integrado Módulo 6 (Data Analytics & IA)
+    </footer>
+
+    <!-- Scripts de Lógica y Gráficos -->
+    <script>
+        // Inicializar Iconos de Lucide
+        lucide.createIcons();
+
+        // Configuración del Gráfico con Chart.js
+        const ctx = document.getElementById('energyChart').getContext('2d');
+        const hours = ['00:00', '03:00', '06:00', '09:00', '12:00', '15:00', '18:00', '21:00', '23:59'];
+        
+        let energyChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: hours,
+                datasets: [
+                    {
+                        label: 'Generación Solar Predicha (kW)',
+                        data: [0, 0, 0.2, 2.1, 4.5, 4.2, 1.8, 0.1, 0],
+                        borderColor: '#10b981',
+                        backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                        fill: true,
+                        tension: 0.4,
+                        borderWidth: 2
+                    },
+                    {
+                        label: 'Consumo del Hogar (kW)',
+                        data: [1.2, 1.0, 1.1, 1.5, 1.8, 2.2, 3.0, 2.5, 1.5],
+                        borderColor: '#06b6d4',
+                        backgroundColor: 'rgba(6, 182, 212, 0.05)',
+                        fill: true,
+                        tension: 0.4,
+                        borderWidth: 2
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: '#94a3b8',
+                            font: { family: 'inherit', size: 11 }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        grid: { color: 'rgba(51, 65, 85, 0.2)' },
+                        ticks: { color: '#64748b', font: { size: 10 } }
+                    },
+                    y: {
+                        grid: { color: 'rgba(51, 65, 85, 0.2)' },
+                        ticks: { color: '#64748b', font: { size: 10 } }
+                    }
+                }
+            }
+        });
+
+        // Funciones interactivas de simulación
+        function actualizarSimulacion() {
+            // Generar variación aleatoria simulando recálculo del modelo de IA
+            const newDataGen = [0, 0, (Math.random()*0.3).toFixed(1), (Math.random()*1.5+1).toFixed(1), (Math.random()*1+4).toFixed(1), (Math.random()*1+3.5).toFixed(1), (Math.random()*1+1).toFixed(1), 0.1, 0];
+            energyChart.data.datasets[0].data = newDataGen;
+            energyChart.update();
+            
+            // Actualizar KPIs de ejemplo
+            document.getElementById('kpi-gen').innerText = (Math.random() * 2 + 2.5).toFixed(1) + ' kW';
+            alert('¡Modelo de IA recalculado con éxito usando las últimas series temporales de la API!');
+        }
+
+        function ejecutarAsistente() {
+            alert('🤖 Asistente Start Energy AI: Dispositivos programados automáticamente para aprovechar el próximo pico de excedente a las 13:00 h.');
+        }
+
+        function guardarConfiguracion() {
+            const potencia = document.getElementById('input-potencia').value;
+            const inclinacion = document.getElementById('input-inclinacion').value;
+            
+            // Guardar en LocalStorage
+            localStorage.setItem('start_energy_config', JSON.stringify({ potencia, inclinacion }));
+            alert(`Configuración guardada en LocalStorage:\n- Potencia: ${potencia} kW\n- Inclinación: ${inclinacion}°`);
+        }
+
+        // Cargar configuración previa si existe
+        window.onload = function() {
+            const saved = localStorage.getItem('start_energy_config');
+            if(saved) {
+                const config = JSON.parse(saved);
+                document.getElementById('input-potencia').value = config.potencia;
+                document.getElementById('input-inclinacion').value = config.inclinacion;
+            }
+        }
+    </script>
+</body>
+</html>
