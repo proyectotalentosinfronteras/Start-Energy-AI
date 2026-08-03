@@ -50,6 +50,11 @@
 
 ### 📌 Asignación para la descarga de datos:
 
+Orden recomendado para tu proyecto: empieza por REData (sin fricción, datos inmediatos) y PVGIS (igual de inmediato),
+y en paralelo solicita el token de ESIOS y la API key de AEMET por email, 
+porque esos dos tardan en llegar (AEMET normalmente al momento, ESIOS hasta 24h).
+Datadis solo hace falta si el análisis necesita consumo a nivel de vivienda/CUPS concreto — si es consumo agregado nacional, ya lo cubre REE.
+
 - [ ]  **API REE (Red Eléctrica):** Descarga de datos de generación renovable y demanda horaria. *(Asignado a: [Escribe el nombre de quien lo hace])*
 - [ ]  **API AEMET:** Descarga de registros de radiación solar y temperaturas. *(Asignado a: [Escribe el nombre de quien lo hace])*
 - [ ]  **Fusión de datos:** Subir los CSV limpios a la carpeta `/data` del proyecto para que el Jupyter Notebook los lea de forma definitiva.
