@@ -1,6 +1,6 @@
 # Start Energy AI - Proyecto Módulo 6
 
-> **Equipo:** Maikol & Cami
+> **Camila Rabelo
 > 
 > 
 > **Repositorio GitHub:** https://github.com/proyectotalentosinfronteras/Start-Energy-AI
@@ -8,7 +8,7 @@
 > **Objetivo:** IA para la Predicción de Generación Fotovoltaica y Optimización del Consumo Energético.
 > 
 
-## 👥 1. Reparto de Roles y Tareas (Pair Programming)
+## 👥 1. Pair Programming
 
     - *Foco principal:* Ingesta de datos (descarga y validación de APIs REE / AEMET) y desarrollo del modelo de Machine Learning en Python (`/notebooks`).
     - *Apoyo:* Revisión de código (Code Review) y preparación técnica del Demo Day.
@@ -18,10 +18,10 @@
 
 ## 📊 2. Tablero de Tareas (Kanban)
 
-*(Actualizado según vuestro progreso)*
+*(Actualizado según progreso)*
 
 - [ ]  **Fase 1:** Definición exacta del caso de negocio y selección de tecnologías (VS Code + Jupyter).
-- [ ] **Fase 2 (En proceso):** Búsqueda, descarga de datasets reales (AEMET/REE) e integración en el Notebook ya preparado.
+- [ ]  **Fase 2 (En proceso):** Búsqueda, descarga de datasets reales (AEMET/REE) e integración en el Notebook ya preparado.
 - [ ]  **Fase 3:** Conexión de la lógica de datos del modelo con el panel interactivo web (`index.html`).
 - [ ]  **Fase 4:** Redacción completa del archivo `README.md` en el repositorio de GitHub.
 - [ ]  **Fase 5:** Ensayar la presentación oral y el guion técnico para el **Demo Day**.
