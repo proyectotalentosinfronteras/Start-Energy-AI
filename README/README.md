@@ -1,15 +1,9 @@
-# ☀️ Start Energy AI: Optimización y Predicción de Generación Fotovoltaica
+# ☀️ Start-Energy-AI
+#  Optimización y Predicción de Generación Fotovoltaica
+Python Version Status License
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version">
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success.svg" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-</p>
-
-## 🚀 Descripción del Proyecto
-**Start Energy AI** es una solución inteligente diseñada para hogares y comunidades con autoconsumo fotovoltaico. Combina el análisis de series temporales, modelos de Machine Learning y una interfaz web interactiva para predecir la generación de energía solar, anticipar excedentes y optimizar el consumo eléctrico según los precios del mercado regulado (PVPC).
-
----
+🚀 Descripción del Proyecto
+Start Energy AI es una solución inteligente diseñada para hogares y comunidades con autoconsumo fotovoltaico. Combina el análisis de series temporales, modelos de Machine Learning y una interfaz web interactiva para predecir la generación de energía solar, anticipar excedentes y optimizar el consumo eléctrico según los precios del mercado regulado (PVPC).
 
 ## 🛠️ Arquitectura del Proyecto
 ```text

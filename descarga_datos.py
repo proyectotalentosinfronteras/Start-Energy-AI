@@ -48,23 +48,26 @@ import pandas as pd
 # ======================================================================
 
 # --- Rango de fechas para todas las descargas ---
-FECHA_INICIO = "2025-01-01"   # formato YYYY-MM-DD
-FECHA_FIN = "2025-01-31"      # formato YYYY-MM-DD
+FECHA_INICIO = "2023-01-01"   # formato YYYY-MM-DD
+FECHA_FIN = "2023-01-31"      # formato YYYY-MM-DD
+
+DATADIS_FECHA_INICIO = "2025-03-01"   # formato YYYY-MM-DD
+DATADIS_FECHA_FIN = "2025-03-31"      # formato YYYY-MM-DD
 
 # --- Coordenadas de referencia (ejemplo: Alicante) ---
 LATITUD = 38.3452
 LONGITUD = -0.4810
 
 # --- ESIOS: solicita tu token a consultasios@ree.es ---
-ESIOS_TOKEN = os.getenv("ESIOS_TOKEN", "PON_AQUI_TU_TOKEN_ESIOS")
+ESIOS_TOKEN = os.getenv("ESIOS_TOKEN", "233de5c1a0795f0b86c850dfebbaefcfaf65661e614f0209cbb561ba80aed114")
 
 # --- AEMET: solicita tu API key en https://opendata.aemet.es ---
-AEMET_API_KEY = os.getenv("AEMET_API_KEY", "PON_AQUI_TU_API_KEY_AEMET")
+AEMET_API_KEY = os.getenv("AEMET_API_KEY", "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjYW1pYW1vcmltc3VhcmV6QGdtYWlsLmNvbSIsImp0aSI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsImV4cCI6MTc5NDM5NzMyNywiaXNzIjoiQUVNRVQiLCJpYXQiOjE3ODU3NTczMjcsInVzZXJJZCI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsInJvbGUiOiIifQ.MI_3sJCteFvQN3p9LaYYJG0nI4uTtkxQC4rKXkveGsA")
 AEMET_ESTACION = "8025"  # Código de estación AEMET (ej. 8025 = Alicante/Elche aeropuerto)
 
 # --- Datadis: usuario y contraseña de tu cuenta en datadis.es ---
-DATADIS_NIF = os.getenv("DATADIS_NIF", "PON_AQUI_TU_NIF")
-DATADIS_PASSWORD = os.getenv("DATADIS_PASSWORD", "PON_AQUI_TU_PASSWORD")
+DATADIS_NIF = os.getenv("DATADIS_NIF", "60550719E")
+DATADIS_PASSWORD = os.getenv("DATADIS_PASSWORD", "Start.Energy.2026*")
 
 # --- Carpeta raíz donde se guardan todos los datos ---
 CARPETA_DATOS = Path("data")
@@ -160,7 +163,7 @@ def descargar_esios_indicador(indicador_id, nombre_archivo):
       600  -> Precio spot mercado diario
     Lista completa: https://api.esios.ree.es/indicators
     """
-    if ESIOS_TOKEN.startswith("PON_AQUI"):
+    if ESIOS_TOKEN.startswith("233de5c1a0795f0b86c850dfebbaefcfaf65661e614f0209cbb561ba80aed114"):
         print(f"\n[ESIOS] Saltando indicador {indicador_id}: falta configurar ESIOS_TOKEN")
         return None
 
@@ -205,7 +208,7 @@ def descargar_aemet_climatologia():
     la reporta) de una estación AEMET en el rango de fechas configurado.
     AEMET limita a series de hasta 5 años por petición; funciona en tramos.
     """
-    if AEMET_API_KEY.startswith("PON_AQUI"):
+    if AEMET_API_KEY.startswith("eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjYW1pYW1vcmltc3VhcmV6QGdtYWlsLmNvbSIsImp0aSI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsImV4cCI6MTc5NDM5NzMyNywiaXNzIjoiQUVNRVQiLCJpYXQiOjE3ODU3NTczMjcsInVzZXJJZCI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsInJvbGUiOiIifQ.MI_3sJCteFvQN3p9LaYYJG0nI4uTtkxQC4rKXkveGsA"):
         print("\n[AEMET] Saltando: falta configurar AEMET_API_KEY")
         return None
 
@@ -252,7 +255,7 @@ def descargar_pvgis_radiacion():
     """
     print(f"\n[PVGIS] Descargando radiación horaria para lat={LATITUD}, lon={LONGITUD} ...")
     anio = datetime.strptime(FECHA_FIN, "%Y-%m-%d").year
-    url = "https://re.jrc.ec.europa.eu/api/v5_2/seriescalc"
+    url = "https://re.jrc.ec.europa.eu/api/v5_3/seriescalc"
     params = {
         "lat": LATITUD,
         "lon": LONGITUD,
@@ -285,7 +288,7 @@ def descargar_pvgis_radiacion():
 def descargar_pvgis_potencial_fv(potencia_kwp=1):
     """Estimación de producción fotovoltaica para una instalación de referencia."""
     print(f"\n[PVGIS] Descargando estimación PV ({potencia_kwp} kWp) ...")
-    url = "https://re.jrc.ec.europa.eu/api/v5_2/PVcalc"
+    url = "https://re.jrc.ec.europa.eu/api/v5_3/PVcalc"
     params = {
         "lat": LATITUD,
         "lon": LONGITUD,
@@ -353,8 +356,8 @@ def descargar_datadis_consumo():
         params = {
             "cups": cups,
             "distributorCode": distribuidora,
-            "startDate": f"{FECHA_INICIO[:7]}",
-            "endDate": f"{FECHA_FIN[:7]}",
+            "startDate": DATADIS_FECHA_INICIO[:7].replace("-", "/"),
+            "endDate": DATADIS_FECHA_FIN[:7].replace("-", "/"),
             "measurementType": 0,
             "pointType": supplies[0].get("pointType", 5),
         }
@@ -395,11 +398,11 @@ def main():
     USAR_DATADIS = True
 
     if USAR_REE:
-        resultados.append(descargar_ree("demanda", "evolucion", "demanda_horaria"))
+        resultados.append(descargar_ree("demanda", "demanda-tiempo-real", "demanda_horaria"))
         time.sleep(1)
-        resultados.append(descargar_ree("generacion", "estructura-generacion", "generacion_estructura"))
+        resultados.append(descargar_ree("generacion", "estructura-generacion", "generacion_estructura", time_trunc="day"))
         time.sleep(1)
-        resultados.append(descargar_ree("generacion", "evolucion-renovable-no-renovable", "renovable_vs_no_renovable"))
+        resultados.append(descargar_ree("generacion", "evolucion-renovable-no-renovable", "renovable_vs_no_renovable", time_trunc="day"))
 
     if USAR_ESIOS:
         resultados.append(descargar_esios_indicador(1293, "demanda_real"))

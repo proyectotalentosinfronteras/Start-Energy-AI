@@ -1,0 +1,497 @@
+﻿categoria,serie,tipo,fecha,valor,porcentaje
+generacion,Hidráulica,Hidráulica,2022-12-31 23:00:00+00:00,78179.148,0.07132138695901323
+generacion,Turbina de vapor,Turbina de vapor,2022-12-31 23:00:00+00:00,3883.284,0.003542647981220577
+generacion,Carbón,Carbón,2022-12-31 23:00:00+00:00,10982.254,0.010018906668261093
+generacion,Solar térmica,Solar térmica,2022-12-31 23:00:00+00:00,811.405,0.0007402297347302649
+generacion,Eólica,Eólica,2022-12-31 23:00:00+00:00,161362.747,0.14720824176232197
+generacion,Otras renovables,Otras renovables,2022-12-31 23:00:00+00:00,5311.81,0.004845865760301661
+generacion,Nuclear,Nuclear,2022-12-31 23:00:00+00:00,155560.191,0.14191467752665973
+generacion,Residuos no renovables,Residuos no renovables,2022-12-31 23:00:00+00:00,3318.656,0.0030275483273346877
+generacion,Generación total,Generación total,2022-12-31 23:00:00+00:00,548076.47,1.0
+generacion,Hidroeólica,Hidroeólica,2022-12-31 23:00:00+00:00,4.5,4.105266551581753e-06
+generacion,Motores diésel,Motores diésel,2022-12-31 23:00:00+00:00,5630.689,0.005136773158679847
+generacion,Ciclo combinado,Ciclo combinado,2022-12-31 23:00:00+00:00,65377.808,0.05964296186625199
+generacion,Residuos renovables,Residuos renovables,2022-12-31 23:00:00+00:00,2472.641,0.0022557445314154794
+generacion,Cogeneración,Cogeneración,2022-12-31 23:00:00+00:00,19340.669,0.017644133673536472
+generacion,Turbina de gas,Turbina de gas,2022-12-31 23:00:00+00:00,939.688,0.0008572599367383898
+generacion,Solar fotovoltaica,Solar fotovoltaica,2022-12-31 23:00:00+00:00,34900.98,0.03183951684698305
+generacion,Residuos no renovables,Residuos no renovables,2023-01-01 23:00:00+00:00,3335.7235,0.0025562214442814406
+generacion,Hidroeólica,Hidroeólica,2023-01-01 23:00:00+00:00,11.132,8.530640239738395e-06
+generacion,Nuclear,Nuclear,2023-01-01 23:00:00+00:00,163569.964,0.1253464352237658
+generacion,Solar térmica,Solar térmica,2023-01-01 23:00:00+00:00,194.716,0.00014921417040252436
+generacion,Eólica,Eólica,2023-01-01 23:00:00+00:00,97582.74,0.07477930727164296
+generacion,Residuos renovables,Residuos renovables,2023-01-01 23:00:00+00:00,2379.4275,0.0018233956143586174
+generacion,Carbón,Carbón,2023-01-01 23:00:00+00:00,12885.539,0.009874406890416677
+generacion,Cogeneración,Cogeneración,2023-01-01 23:00:00+00:00,33482.908,0.02565851979233369
+generacion,Generación total,Generación total,2023-01-01 23:00:00+00:00,652471.543,1.0
+generacion,Hidráulica,Hidráulica,2023-01-01 23:00:00+00:00,137773.105,0.10557786502575486
+generacion,Motores diésel,Motores diésel,2023-01-01 23:00:00+00:00,6852.195,0.00525095314386761
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-01 23:00:00+00:00,31904.641,0.02444906704536538
+generacion,Turbina de gas,Turbina de gas,2023-01-01 23:00:00+00:00,1579.566,0.0012104481926807956
+generacion,Ciclo combinado,Ciclo combinado,2023-01-01 23:00:00+00:00,146788.872,0.11248680005650455
+generacion,Turbina de vapor,Turbina de vapor,2023-01-01 23:00:00+00:00,4971.058,0.0038094059835495388
+generacion,Otras renovables,Otras renovables,2023-01-01 23:00:00+00:00,9159.956,0.007019429504835892
+generacion,Carbón,Carbón,2023-01-02 23:00:00+00:00,14787.718,0.010593293698854648
+generacion,Solar térmica,Solar térmica,2023-01-02 23:00:00+00:00,3462.572,0.002480439656032833
+generacion,Turbina de vapor,Turbina de vapor,2023-01-02 23:00:00+00:00,4107.102,0.0029421535991660994
+generacion,Eólica,Eólica,2023-01-02 23:00:00+00:00,72777.45,0.05213467706807156
+generacion,Residuos renovables,Residuos renovables,2023-01-02 23:00:00+00:00,2594.831,0.0018588268238475135
+generacion,Hidráulica,Hidráulica,2023-01-02 23:00:00+00:00,155141.995,0.11113714219200278
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-02 23:00:00+00:00,53978.712,0.03866805883787409
+generacion,Residuos no renovables,Residuos no renovables,2023-01-02 23:00:00+00:00,4075.831,0.0029197523816654088
+generacion,Motores diésel,Motores diésel,2023-01-02 23:00:00+00:00,6207.233,0.00444659833425432
+generacion,Ciclo combinado,Ciclo combinado,2023-01-02 23:00:00+00:00,152379.45,0.10915817217503991
+generacion,Generación total,Generación total,2023-01-02 23:00:00+00:00,697975.456,1.0
+generacion,Hidroeólica,Hidroeólica,2023-01-02 23:00:00+00:00,34.612,2.4794568134498983e-05
+generacion,Otras renovables,Otras renovables,2023-01-02 23:00:00+00:00,10867.495,0.0077850122855895945
+generacion,Cogeneración,Cogeneración,2023-01-02 23:00:00+00:00,45982.942,0.032940228488492866
+generacion,Nuclear,Nuclear,2023-01-02 23:00:00+00:00,170320.157,0.12201013340503479
+generacion,Turbina de gas,Turbina de gas,2023-01-02 23:00:00+00:00,1257.356,0.0009007164859390125
+generacion,Hidroeólica,Hidroeólica,2023-01-03 23:00:00+00:00,20.958,1.600590050900871e-05
+generacion,Carbón,Carbón,2023-01-03 23:00:00+00:00,14953.509,0.01142019168406176
+generacion,Residuos no renovables,Residuos no renovables,2023-01-03 23:00:00+00:00,4002.199,0.003056532064665243
+generacion,Otras renovables,Otras renovables,2023-01-03 23:00:00+00:00,10732.11,0.008196253693660536
+generacion,Solar térmica,Solar térmica,2023-01-03 23:00:00+00:00,4732.083,0.00361395408428149
+generacion,Motores diésel,Motores diésel,2023-01-03 23:00:00+00:00,6156.266,0.0047016213905426586
+generacion,Cogeneración,Cogeneración,2023-01-03 23:00:00+00:00,48363.67,0.03693597147965118
+generacion,Turbina de gas,Turbina de gas,2023-01-03 23:00:00+00:00,1199.927,0.0009164000467636843
+generacion,Turbina de vapor,Turbina de vapor,2023-01-03 23:00:00+00:00,4146.032,0.0031663792203056786
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-03 23:00:00+00:00,58475.944,0.044658848260061314
+generacion,Nuclear,Nuclear,2023-01-03 23:00:00+00:00,170571.144,0.13026742821699583
+generacion,Residuos renovables,Residuos renovables,2023-01-03 23:00:00+00:00,2635.204,0.002012539986875742
+generacion,Ciclo combinado,Ciclo combinado,2023-01-03 23:00:00+00:00,120461.966,0.09199838929838679
+generacion,Hidráulica,Hidráulica,2023-01-03 23:00:00+00:00,139503.134,0.1065403799741822
+generacion,Eólica,Eólica,2023-01-03 23:00:00+00:00,68741.914,0.05249910469905684
+generacion,Generación total,Generación total,2023-01-03 23:00:00+00:00,654696.06,1.0
+generacion,Hidroeólica,Hidroeólica,2023-01-04 23:00:00+00:00,4.351,3.287607958044725e-06
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-04 23:00:00+00:00,58507.717,0.04420832820414356
+generacion,Turbina de vapor,Turbina de vapor,2023-01-04 23:00:00+00:00,4247.436,0.0032093551815411754
+generacion,Otras renovables,Otras renovables,2023-01-04 23:00:00+00:00,10780.009,0.008145355866741843
+generacion,Generación total,Generación total,2023-01-04 23:00:00+00:00,661727.319,1.0
+generacion,Turbina de gas,Turbina de gas,2023-01-04 23:00:00+00:00,1096.867,0.0008287907786983782
+generacion,Ciclo combinado,Ciclo combinado,2023-01-04 23:00:00+00:00,150802.315,0.11394596434970522
+generacion,Motores diésel,Motores diésel,2023-01-04 23:00:00+00:00,6640.317,0.0050174118623626
+generacion,Nuclear,Nuclear,2023-01-04 23:00:00+00:00,170674.002,0.12896097614491872
+generacion,Residuos no renovables,Residuos no renovables,2023-01-04 23:00:00+00:00,3999.2065,0.0030217934073234177
+generacion,Eólica,Eólica,2023-01-04 23:00:00+00:00,45530.964,0.03440311642929163
+generacion,Residuos renovables,Residuos renovables,2023-01-04 23:00:00+00:00,2650.5345,0.002002739212887175
+generacion,Cogeneración,Cogeneración,2023-01-04 23:00:00+00:00,48398.689,0.03656996440251245
+generacion,Hidráulica,Hidráulica,2023-01-04 23:00:00+00:00,144485.216,0.109172775440453
+generacion,Solar térmica,Solar térmica,2023-01-04 23:00:00+00:00,5249.039,0.003966164649158153
+generacion,Carbón,Carbón,2023-01-04 23:00:00+00:00,8660.656,0.006543976462304711
+generacion,Hidroeólica,Hidroeólica,2023-01-05 23:00:00+00:00,13.281,1.0685541542022397e-05
+generacion,Otras renovables,Otras renovables,2023-01-05 23:00:00+00:00,11181.257,0.008996143826935374
+generacion,Residuos renovables,Residuos renovables,2023-01-05 23:00:00+00:00,2636.081,0.002120921092811983
+generacion,Turbina de vapor,Turbina de vapor,2023-01-05 23:00:00+00:00,3595.164,0.0028925739230768323
+generacion,Generación total,Generación total,2023-01-05 23:00:00+00:00,621447.212,1.0
+generacion,Ciclo combinado,Ciclo combinado,2023-01-05 23:00:00+00:00,93312.458,0.07507673716943153
+generacion,Hidráulica,Hidráulica,2023-01-05 23:00:00+00:00,132905.961,0.10693262310427744
+generacion,Carbón,Carbón,2023-01-05 23:00:00+00:00,6101.482,0.00490909113612694
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-05 23:00:00+00:00,55255.744,0.04445731104189103
+generacion,Solar térmica,Solar térmica,2023-01-05 23:00:00+00:00,4585.892,0.0036896874838662883
+generacion,Nuclear,Nuclear,2023-01-05 23:00:00+00:00,170650.133,0.13730058620007132
+generacion,Residuos no renovables,Residuos no renovables,2023-01-05 23:00:00+00:00,3922.023,0.003155556034580778
+generacion,Motores diésel,Motores diésel,2023-01-05 23:00:00+00:00,5914.544,0.004758685762677458
+generacion,Eólica,Eólica,2023-01-05 23:00:00+00:00,85826.534,0.06905376059519597
+generacion,Cogeneración,Cogeneración,2023-01-05 23:00:00+00:00,44097.339,0.035479553330106495
+generacion,Turbina de gas,Turbina de gas,2023-01-05 23:00:00+00:00,1449.319,0.0011660837574085053
+generacion,Hidráulica,Hidráulica,2023-01-06 23:00:00+00:00,76816.159,0.056198800703863065
+generacion,Ciclo combinado,Ciclo combinado,2023-01-06 23:00:00+00:00,65633.512,0.04801756177866958
+generacion,Eólica,Eólica,2023-01-06 23:00:00+00:00,306913.003,0.22453794766048024
+generacion,Cogeneración,Cogeneración,2023-01-06 23:00:00+00:00,30507.633,0.022319423533186503
+generacion,Hidroeólica,Hidroeólica,2023-01-06 23:00:00+00:00,8.771,6.4168748788075045e-06
+generacion,Generación total,Generación total,2023-01-06 23:00:00+00:00,683432.369,1.0
+generacion,Turbina de gas,Turbina de gas,2023-01-06 23:00:00+00:00,1681.186,0.0012299578394713113
+generacion,Otras renovables,Otras renovables,2023-01-06 23:00:00+00:00,6766.571,0.004950432044871437
+generacion,Residuos renovables,Residuos renovables,2023-01-06 23:00:00+00:00,2594.704,0.0018982887829827096
+generacion,Residuos no renovables,Residuos no renovables,2023-01-06 23:00:00+00:00,3739.524,0.0027358405671300593
+generacion,Nuclear,Nuclear,2023-01-06 23:00:00+00:00,136955.177,0.10019658360665092
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-06 23:00:00+00:00,36334.185,0.026582136468868364
+generacion,Turbina de vapor,Turbina de vapor,2023-01-06 23:00:00+00:00,4071.908,0.0029790131289494136
+generacion,Motores diésel,Motores diésel,2023-01-06 23:00:00+00:00,6026.736,0.004409167807502545
+generacion,Solar térmica,Solar térmica,2023-01-06 23:00:00+00:00,873.13,0.0006387830307756465
+generacion,Carbón,Carbón,2023-01-06 23:00:00+00:00,4510.17,0.0032996461717194436
+generacion,Solar térmica,Solar térmica,2023-01-07 23:00:00+00:00,59.494,4.1539675508733914e-05
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-07 23:00:00+00:00,17719.34,0.012371930511125982
+generacion,Ciclo combinado,Ciclo combinado,2023-01-07 23:00:00+00:00,59181.356,0.04132138239834038
+generacion,Turbina de gas,Turbina de gas,2023-01-07 23:00:00+00:00,1797.784,0.0012552419402762243
+generacion,Turbina de vapor,Turbina de vapor,2023-01-07 23:00:00+00:00,3652.894,0.0025505098233065695
+generacion,Otras renovables,Otras renovables,2023-01-07 23:00:00+00:00,6273.334,0.0043801435223368365
+generacion,Eólica,Eólica,2023-01-07 23:00:00+00:00,376801.14,0.26308866586413787
+generacion,Hidroeólica,Hidroeólica,2023-01-07 23:00:00+00:00,11.569,8.077663393964815e-06
+generacion,Hidráulica,Hidráulica,2023-01-07 23:00:00+00:00,83287.381,0.05815259993801543
+generacion,Residuos renovables,Residuos renovables,2023-01-07 23:00:00+00:00,2444.483,0.0017067776684475142
+generacion,Residuos no renovables,Residuos no renovables,2023-01-07 23:00:00+00:00,3681.895,0.002570758791764377
+generacion,Motores diésel,Motores diésel,2023-01-07 23:00:00+00:00,5514.494,0.00385030912957374
+generacion,Cogeneración,Cogeneración,2023-01-07 23:00:00+00:00,29016.272,0.02025963161584633
+generacion,Nuclear,Nuclear,2023-01-07 23:00:00+00:00,120439.736,0.08409297663289707
+generacion,Carbón,Carbón,2023-01-07 23:00:00+00:00,6229.381,0.0043494548250289505
+generacion,Generación total,Generación total,2023-01-07 23:00:00+00:00,716110.553,1.0
+generacion,Turbina de vapor,Turbina de vapor,2023-01-08 23:00:00+00:00,4145.646,0.0026990634438409807
+generacion,Solar térmica,Solar térmica,2023-01-08 23:00:00+00:00,1020.745,0.0006645660326480993
+generacion,Residuos renovables,Residuos renovables,2023-01-08 23:00:00+00:00,2363.84,0.001539001190909466
+generacion,Hidroeólica,Hidroeólica,2023-01-08 23:00:00+00:00,5.332,3.471450838436304e-06
+generacion,Residuos no renovables,Residuos no renovables,2023-01-08 23:00:00+00:00,3778.506,0.002460033349913092
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-08 23:00:00+00:00,50037.428,0.03257735772389276
+generacion,Nuclear,Nuclear,2023-01-08 23:00:00+00:00,149850.166,0.09756141867976732
+generacion,Carbón,Carbón,2023-01-08 23:00:00+00:00,7622.605,0.004962771665101043
+generacion,Eólica,Eólica,2023-01-08 23:00:00+00:00,302495.66,0.1969427630401994
+generacion,Turbina de gas,Turbina de gas,2023-01-08 23:00:00+00:00,2292.069,0.001492273978207776
+generacion,Cogeneración,Cogeneración,2023-01-08 23:00:00+00:00,43708.73,0.028456996887750573
+generacion,Motores diésel,Motores diésel,2023-01-08 23:00:00+00:00,6237.89,0.00406123939808204
+generacion,Ciclo combinado,Ciclo combinado,2023-01-08 23:00:00+00:00,81198.673,0.05286519157272417
+generacion,Otras renovables,Otras renovables,2023-01-08 23:00:00+00:00,9299.795,0.006054722646293276
+generacion,Generación total,Generación total,2023-01-08 23:00:00+00:00,767978.613,1.0
+generacion,Hidráulica,Hidráulica,2023-01-08 23:00:00+00:00,103921.528,0.06765912893983156
+generacion,Residuos no renovables,Residuos no renovables,2023-01-09 23:00:00+00:00,3870.1215,0.0025327962338641138
+generacion,Eólica,Eólica,2023-01-09 23:00:00+00:00,211448.48,0.1383821964763358
+generacion,Hidráulica,Hidráulica,2023-01-09 23:00:00+00:00,150833.316,0.09871267729089016
+generacion,Generación total,Generación total,2023-01-09 23:00:00+00:00,764001.748,1.0
+generacion,Turbina de vapor,Turbina de vapor,2023-01-09 23:00:00+00:00,4154.078,0.0027186312144406245
+generacion,Nuclear,Nuclear,2023-01-09 23:00:00+00:00,170291.53,0.11144708140118023
+generacion,Ciclo combinado,Ciclo combinado,2023-01-09 23:00:00+00:00,87337.941,0.057158207575200466
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-09 23:00:00+00:00,46165.713,0.030213093831821962
+generacion,Residuos renovables,Residuos renovables,2023-01-09 23:00:00+00:00,2401.3995,0.0015715929356748014
+generacion,Hidroeólica,Hidroeólica,2023-01-09 23:00:00+00:00,24.387,1.596004201812376e-05
+generacion,Otras renovables,Otras renovables,2023-01-09 23:00:00+00:00,11497.726,0.007524672574440235
+generacion,Cogeneración,Cogeneración,2023-01-09 23:00:00+00:00,50284.501,0.032908629549365895
+generacion,Solar térmica,Solar térmica,2023-01-09 23:00:00+00:00,2376.949,0.0015555913361601365
+generacion,Turbina de gas,Turbina de gas,2023-01-09 23:00:00+00:00,2156.51,0.0014113253049782288
+generacion,Motores diésel,Motores diésel,2023-01-09 23:00:00+00:00,6690.714,0.004378729510446093
+generacion,Carbón,Carbón,2023-01-09 23:00:00+00:00,14468.382,0.009468814723183066
+generacion,Carbón,Carbón,2023-01-10 23:00:00+00:00,15832.331,0.010614723036597338
+generacion,Cogeneración,Cogeneración,2023-01-10 23:00:00+00:00,47316.356,0.0317230617551541
+generacion,Turbina de gas,Turbina de gas,2023-01-10 23:00:00+00:00,1861.368,0.001247946735650304
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-10 23:00:00+00:00,37348.62,0.025040232995325835
+generacion,Generación total,Generación total,2023-01-10 23:00:00+00:00,745772.214,1.0
+generacion,Nuclear,Nuclear,2023-01-10 23:00:00+00:00,170439.582,0.11427053649923191
+generacion,Motores diésel,Motores diésel,2023-01-10 23:00:00+00:00,5911.228,0.0039631591852254235
+generacion,Residuos renovables,Residuos renovables,2023-01-10 23:00:00+00:00,2503.5415,0.0016784893919365032
+generacion,Turbina de vapor,Turbina de vapor,2023-01-10 23:00:00+00:00,3644.964,0.0024437515447578743
+generacion,Otras renovables,Otras renovables,2023-01-10 23:00:00+00:00,11805.462,0.007914924811076429
+generacion,Hidráulica,Hidráulica,2023-01-10 23:00:00+00:00,147320.516,0.09877045110720631
+generacion,Solar térmica,Solar térmica,2023-01-10 23:00:00+00:00,943.425,0.0006325155203489519
+generacion,Eólica,Eólica,2023-01-10 23:00:00+00:00,202813.449,0.13597546622996065
+generacion,Residuos no renovables,Residuos no renovables,2023-01-10 23:00:00+00:00,3946.3495,0.0026458142485850243
+generacion,Ciclo combinado,Ciclo combinado,2023-01-10 23:00:00+00:00,94012.128,0.06303005544800305
+generacion,Hidroeólica,Hidroeólica,2023-01-10 23:00:00+00:00,72.894,4.8871490940261826e-05
+generacion,Ciclo combinado,Ciclo combinado,2023-01-11 23:00:00+00:00,93902.531,0.06372991112075231
+generacion,Hidráulica,Hidráulica,2023-01-11 23:00:00+00:00,159624.344,0.10833409011976891
+generacion,Hidroeólica,Hidroeólica,2023-01-11 23:00:00+00:00,97.084,6.588911529176053e-05
+generacion,Generación total,Generación total,2023-01-11 23:00:00+00:00,736722.595,1.0
+generacion,Eólica,Eólica,2023-01-11 23:00:00+00:00,155530.677,0.10555579403669572
+generacion,Turbina de gas,Turbina de gas,2023-01-11 23:00:00+00:00,1799.779,0.00122147672150601
+generacion,Otras renovables,Otras renovables,2023-01-11 23:00:00+00:00,11350.84,0.0077036051812690775
+generacion,Residuos renovables,Residuos renovables,2023-01-11 23:00:00+00:00,2451.371,0.0016637001611169535
+generacion,Turbina de vapor,Turbina de vapor,2023-01-11 23:00:00+00:00,3020.322,0.002049836682421828
+generacion,Residuos no renovables,Residuos no renovables,2023-01-11 23:00:00+00:00,3837.259,0.0026042767155797634
+generacion,Carbón,Carbón,2023-01-11 23:00:00+00:00,14551.317,0.00987570973033615
+generacion,Solar térmica,Solar térmica,2023-01-11 23:00:00+00:00,3836.722,0.0026039122636112447
+generacion,Nuclear,Nuclear,2023-01-11 23:00:00+00:00,170473.153,0.11569697614608929
+generacion,Motores diésel,Motores diésel,2023-01-11 23:00:00+00:00,5443.027,0.0036940817594986347
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-11 23:00:00+00:00,60812.197,0.041272113420113034
+generacion,Cogeneración,Cogeneración,2023-01-11 23:00:00+00:00,49991.972,0.033928626825949326
+generacion,Residuos no renovables,Residuos no renovables,2023-01-12 23:00:00+00:00,3798.3065,0.0025791619204942285
+generacion,Cogeneración,Cogeneración,2023-01-12 23:00:00+00:00,47429.922,0.0322063131857346
+generacion,Eólica,Eólica,2023-01-12 23:00:00+00:00,157196.795,0.10674125105168251
+generacion,Otras renovables,Otras renovables,2023-01-12 23:00:00+00:00,11282.049,0.007660843369525337
+generacion,Hidroeólica,Hidroeólica,2023-01-12 23:00:00+00:00,93.648,6.358974862361514e-05
+generacion,Motores diésel,Motores diésel,2023-01-12 23:00:00+00:00,5621.783,0.003817356139869651
+generacion,Generación total,Generación total,2023-01-12 23:00:00+00:00,736345.103,1.0
+generacion,Solar térmica,Solar térmica,2023-01-12 23:00:00+00:00,2668.354,0.0018118909116993207
+generacion,Turbina de gas,Turbina de gas,2023-01-12 23:00:00+00:00,1763.267,0.0011973101965478817
+generacion,Turbina de vapor,Turbina de vapor,2023-01-12 23:00:00+00:00,3333.138,0.002263298816288862
+generacion,Carbón,Carbón,2023-01-12 23:00:00+00:00,13149.289,0.008928754293623654
+generacion,Nuclear,Nuclear,2023-01-12 23:00:00+00:00,170482.326,0.11576251767372725
+generacion,Hidráulica,Hidráulica,2023-01-12 23:00:00+00:00,163310.077,0.11089234948032242
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-12 23:00:00+00:00,55502.482,0.03768781904970448
+generacion,Ciclo combinado,Ciclo combinado,2023-01-12 23:00:00+00:00,98190.981,0.0666745664498566
+generacion,Residuos renovables,Residuos renovables,2023-01-12 23:00:00+00:00,2522.6855,0.0017129777122996638
+generacion,Generación total,Generación total,2023-01-13 23:00:00+00:00,691694.636,1.0
+generacion,Otras renovables,Otras renovables,2023-01-13 23:00:00+00:00,10277.482,0.007429204641106976
+generacion,Cogeneración,Cogeneración,2023-01-13 23:00:00+00:00,34613.742,0.02502097038092399
+generacion,Hidráulica,Hidráulica,2023-01-13 23:00:00+00:00,140292.936,0.10141247936466577
+generacion,Residuos renovables,Residuos renovables,2023-01-13 23:00:00+00:00,2426.5895,0.001754090153158279
+generacion,Nuclear,Nuclear,2023-01-13 23:00:00+00:00,170577.206,0.12330383750438685
+generacion,Residuos no renovables,Residuos no renovables,2023-01-13 23:00:00+00:00,3755.1965,0.00271449011207888
+generacion,Carbón,Carbón,2023-01-13 23:00:00+00:00,6325.853,0.004572720873319018
+generacion,Eólica,Eólica,2023-01-13 23:00:00+00:00,183461.687,0.1326175435311602
+generacion,Motores diésel,Motores diésel,2023-01-13 23:00:00+00:00,5974.898,0.004319028722379742
+generacion,Hidroeólica,Hidroeólica,2023-01-13 23:00:00+00:00,19.84,1.4341588735408381e-05
+generacion,Turbina de gas,Turbina de gas,2023-01-13 23:00:00+00:00,2211.535,0.0015986353550383756
+generacion,Solar térmica,Solar térmica,2023-01-13 23:00:00+00:00,3407.815,0.0024633811096953485
+generacion,Turbina de vapor,Turbina de vapor,2023-01-13 23:00:00+00:00,4300.41,0.0031086044160099574
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-13 23:00:00+00:00,57887.595,0.041844762115518276
+generacion,Ciclo combinado,Ciclo combinado,2023-01-13 23:00:00+00:00,66161.851,0.04782591013182297
+generacion,Solar térmica,Solar térmica,2023-01-14 23:00:00+00:00,2302.046,0.0016442692550956992
+generacion,Cogeneración,Cogeneración,2023-01-14 23:00:00+00:00,30898.967,0.02207002877106565
+generacion,Residuos no renovables,Residuos no renovables,2023-01-14 23:00:00+00:00,3517.535,0.0025124496444567353
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-14 23:00:00+00:00,42371.338,0.030264333714733808
+generacion,Residuos renovables,Residuos renovables,2023-01-14 23:00:00+00:00,2396.179,0.001711505095643596
+generacion,Otras renovables,Otras renovables,2023-01-14 23:00:00+00:00,9747.292,0.0069621426140225985
+generacion,Eólica,Eólica,2023-01-14 23:00:00+00:00,292377.269,0.20883464288096104
+generacion,Generación total,Generación total,2023-01-14 23:00:00+00:00,700020.995,1.0
+generacion,Ciclo combinado,Ciclo combinado,2023-01-14 23:00:00+00:00,49544.793,0.03538807646762081
+generacion,Carbón,Carbón,2023-01-14 23:00:00+00:00,6462.675,0.0046160579798038785
+generacion,Nuclear,Nuclear,2023-01-14 23:00:00+00:00,170266.56,0.1216153238375372
+generacion,Turbina de gas,Turbina de gas,2023-01-14 23:00:00+00:00,1460.505,0.00104318656899712
+generacion,Hidroeólica,Hidroeólica,2023-01-14 23:00:00+00:00,62.72,4.47986563602996e-05
+generacion,Hidráulica,Hidráulica,2023-01-14 23:00:00+00:00,79957.342,0.057110674230563624
+generacion,Turbina de vapor,Turbina de vapor,2023-01-14 23:00:00+00:00,3293.026,0.002352090882645599
+generacion,Motores diésel,Motores diésel,2023-01-14 23:00:00+00:00,5362.748,0.00383041940049241
+generacion,Residuos renovables,Residuos renovables,2023-01-15 23:00:00+00:00,2196.0565,0.0013710381730909391
+generacion,Turbina de vapor,Turbina de vapor,2023-01-15 23:00:00+00:00,3645.538,0.0022759759411716393
+generacion,Eólica,Eólica,2023-01-15 23:00:00+00:00,405312.844,0.2530442095492774
+generacion,Ciclo combinado,Ciclo combinado,2023-01-15 23:00:00+00:00,51012.084,0.03184777552532074
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-15 23:00:00+00:00,31092.675,0.01941172475685863
+generacion,Carbón,Carbón,2023-01-15 23:00:00+00:00,6960.053,0.0043452881789408015
+generacion,Residuos no renovables,Residuos no renovables,2023-01-15 23:00:00+00:00,3279.7455,0.002047605004025729
+generacion,Cogeneración,Cogeneración,2023-01-15 23:00:00+00:00,31020.819,0.019366863743963188
+generacion,Motores diésel,Motores diésel,2023-01-15 23:00:00+00:00,5679.314,0.0035456994348596195
+generacion,Hidroeólica,Hidroeólica,2023-01-15 23:00:00+00:00,63.789,3.982463749147525e-05
+generacion,Nuclear,Nuclear,2023-01-15 23:00:00+00:00,152576.651,0.09525638927931673
+generacion,Solar térmica,Solar térmica,2023-01-15 23:00:00+00:00,580.014,0.0003621133312950591
+generacion,Generación total,Generación total,2023-01-15 23:00:00+00:00,800873.58,1.0
+generacion,Turbina de gas,Turbina de gas,2023-01-15 23:00:00+00:00,2654.654,0.0016573489663624565
+generacion,Hidráulica,Hidráulica,2023-01-15 23:00:00+00:00,98137.988,0.06126933791473056
+generacion,Otras renovables,Otras renovables,2023-01-15 23:00:00+00:00,6661.355,0.004158805563295021
+generacion,Hidroeólica,Hidroeólica,2023-01-16 23:00:00+00:00,65.788,4.1934982915803466e-05
+generacion,Turbina de gas,Turbina de gas,2023-01-16 23:00:00+00:00,2839.445,0.0018099361215626495
+generacion,Generación total,Generación total,2023-01-16 23:00:00+00:00,784404.755,1.0
+generacion,Carbón,Carbón,2023-01-16 23:00:00+00:00,7358.626,0.004690579674010264
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-16 23:00:00+00:00,38229.235,0.024368309062583388
+generacion,Cogeneración,Cogeneración,2023-01-16 23:00:00+00:00,28880.577,0.018409231213801096
+generacion,Motores diésel,Motores diésel,2023-01-16 23:00:00+00:00,6078.648,0.0038746883934939946
+generacion,Eólica,Eólica,2023-01-16 23:00:00+00:00,393797.331,0.2510166648594577
+generacion,Ciclo combinado,Ciclo combinado,2023-01-16 23:00:00+00:00,45403.104,0.028941119817663525
+generacion,Otras renovables,Otras renovables,2023-01-16 23:00:00+00:00,5467.019,0.003484820155125144
+generacion,Turbina de vapor,Turbina de vapor,2023-01-16 23:00:00+00:00,4356.388,0.0027768750585914033
+generacion,Nuclear,Nuclear,2023-01-16 23:00:00+00:00,152199.984,0.09701622984169699
+generacion,Residuos no renovables,Residuos no renovables,2023-01-16 23:00:00+00:00,2960.0395,0.0018868061935703082
+generacion,Solar térmica,Solar térmica,2023-01-16 23:00:00+00:00,124.171,7.91498261634072e-05
+generacion,Residuos renovables,Residuos renovables,2023-01-16 23:00:00+00:00,2145.8515,0.0013678215782870927
+generacion,Hidráulica,Hidráulica,2023-01-16 23:00:00+00:00,94498.548,0.060235833221077305
+generacion,Cogeneración,Cogeneración,2023-01-17 23:00:00+00:00,30407.816,0.018966502370611954
+generacion,Generación total,Generación total,2023-01-17 23:00:00+00:00,801618.965,1.0
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-17 23:00:00+00:00,57178.057,0.03566411193876882
+generacion,Otras renovables,Otras renovables,2023-01-17 23:00:00+00:00,5436.989,0.003391255220614697
+generacion,Turbina de vapor,Turbina de vapor,2023-01-17 23:00:00+00:00,4159.702,0.0025945631164053114
+generacion,Carbón,Carbón,2023-01-17 23:00:00+00:00,7596.602,0.004738287348278992
+generacion,Solar térmica,Solar térmica,2023-01-17 23:00:00+00:00,3684.869,0.0022983918550380108
+generacion,Motores diésel,Motores diésel,2023-01-17 23:00:00+00:00,6405.943,0.003995628396840636
+generacion,Turbina de gas,Turbina de gas,2023-01-17 23:00:00+00:00,2974.999,0.0018556191469347285
+generacion,Hidroeólica,Hidroeólica,2023-01-17 23:00:00+00:00,63.36,3.952002308228823e-05
+generacion,Eólica,Eólica,2023-01-17 23:00:00+00:00,360032.058,0.22456558147922562
+generacion,Hidráulica,Hidráulica,2023-01-17 23:00:00+00:00,102566.989,0.06397490171655308
+generacion,Nuclear,Nuclear,2023-01-17 23:00:00+00:00,154734.53,0.09651376573906283
+generacion,Ciclo combinado,Ciclo combinado,2023-01-17 23:00:00+00:00,61174.787,0.03815702326853008
+generacion,Residuos no renovables,Residuos no renovables,2023-01-17 23:00:00+00:00,2913.361,0.0018171732002373472
+generacion,Residuos renovables,Residuos renovables,2023-01-17 23:00:00+00:00,2288.903,0.0014276751798156372
+generacion,Residuos no renovables,Residuos no renovables,2023-01-18 23:00:00+00:00,2981.0075,0.0017809281951201674
+generacion,Ciclo combinado,Ciclo combinado,2023-01-18 23:00:00+00:00,55935.642,0.03341734697076335
+generacion,Motores diésel,Motores diésel,2023-01-18 23:00:00+00:00,5790.0,0.0034590903410158377
+generacion,Eólica,Eólica,2023-01-18 23:00:00+00:00,377557.024,0.22556197839396971
+generacion,Generación total,Generación total,2023-01-18 23:00:00+00:00,836925.236,1.0
+generacion,Solar térmica,Solar térmica,2023-01-18 23:00:00+00:00,4123.896,0.0024637182765032553
+generacion,Otras renovables,Otras renovables,2023-01-18 23:00:00+00:00,5533.634,0.0033059309015745827
+generacion,Hidráulica,Hidráulica,2023-01-18 23:00:00+00:00,105427.539,0.062985040040064
+generacion,Hidroeólica,Hidroeólica,2023-01-18 23:00:00+00:00,96.011,5.735936489313844e-05
+generacion,Residuos renovables,Residuos renovables,2023-01-18 23:00:00+00:00,2242.1185,0.0013394974864875506
+generacion,Cogeneración,Cogeneración,2023-01-18 23:00:00+00:00,31505.452,0.01882214243567152
+generacion,Carbón,Carbón,2023-01-18 23:00:00+00:00,8179.673,0.004886740564243185
+generacion,Turbina de vapor,Turbina de vapor,2023-01-18 23:00:00+00:00,3401.254,0.0020319939306980106
+generacion,Turbina de gas,Turbina de gas,2023-01-18 23:00:00+00:00,2702.132,0.0016143210192314003
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-18 23:00:00+00:00,61198.975,0.036561793316506
+generacion,Nuclear,Nuclear,2023-01-18 23:00:00+00:00,170250.878,0.10171211876325834
+generacion,Carbón,Carbón,2023-01-19 23:00:00+00:00,8880.115,0.0055003153485682224
+generacion,Motores diésel,Motores diésel,2023-01-19 23:00:00+00:00,5695.956,0.003528057261822539
+generacion,Hidroeólica,Hidroeólica,2023-01-19 23:00:00+00:00,95.813,5.934627135936495e-05
+generacion,Residuos renovables,Residuos renovables,2023-01-19 23:00:00+00:00,2355.0295,0.0014586978778068692
+generacion,Solar térmica,Solar térmica,2023-01-19 23:00:00+00:00,1928.906,0.0011947583198804671
+generacion,Turbina de vapor,Turbina de vapor,2023-01-19 23:00:00+00:00,3505.35,0.0021712027836467904
+generacion,Residuos no renovables,Residuos no renovables,2023-01-19 23:00:00+00:00,3367.1265,0.002085587581751002
+generacion,Ciclo combinado,Ciclo combinado,2023-01-19 23:00:00+00:00,98606.029,0.061076264752209085
+generacion,Otras renovables,Otras renovables,2023-01-19 23:00:00+00:00,9077.772,0.0056227434737503796
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-19 23:00:00+00:00,54329.8,0.03365170753133735
+generacion,Cogeneración,Cogeneración,2023-01-19 23:00:00+00:00,42210.924,0.026145313788666785
+generacion,Hidráulica,Hidráulica,2023-01-19 23:00:00+00:00,125727.18,0.07787502052464405
+generacion,Generación total,Generación total,2023-01-19 23:00:00+00:00,807236.898,1.0
+generacion,Eólica,Eólica,2023-01-19 23:00:00+00:00,277913.012,0.1721384470212857
+generacion,Nuclear,Nuclear,2023-01-19 23:00:00+00:00,170680.513,0.10571897383709536
+generacion,Turbina de gas,Turbina de gas,2023-01-19 23:00:00+00:00,2863.372,0.001773563626176067
+generacion,Solar térmica,Solar térmica,2023-01-20 23:00:00+00:00,2493.303,0.0016712964442805725
+generacion,Nuclear,Nuclear,2023-01-20 23:00:00+00:00,171004.406,0.11462668424339575
+generacion,Hidráulica,Hidráulica,2023-01-20 23:00:00+00:00,108970.857,0.07304471451496539
+generacion,Residuos no renovables,Residuos no renovables,2023-01-20 23:00:00+00:00,3318.1515,0.0022242041194087715
+generacion,Carbón,Carbón,2023-01-20 23:00:00+00:00,6984.496,0.0046818069564316415
+generacion,Otras renovables,Otras renovables,2023-01-20 23:00:00+00:00,9650.829,0.0064690878694085045
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-20 23:00:00+00:00,60462.839,0.04052910048710835
+generacion,Motores diésel,Motores diésel,2023-01-20 23:00:00+00:00,5566.121,0.0037310500311175275
+generacion,Residuos renovables,Residuos renovables,2023-01-20 23:00:00+00:00,2377.8415,0.0015939009594954094
+generacion,Turbina de vapor,Turbina de vapor,2023-01-20 23:00:00+00:00,3239.806,0.002171688017043602
+generacion,Ciclo combinado,Ciclo combinado,2023-01-20 23:00:00+00:00,59100.163,0.03961567939327962
+generacion,Generación total,Generación total,2023-01-20 23:00:00+00:00,745918.837,1.0
+generacion,Eólica,Eólica,2023-01-20 23:00:00+00:00,274156.029,0.18377068348523284
+generacion,Cogeneración,Cogeneración,2023-01-20 23:00:00+00:00,36515.785,0.024477049773177936
+generacion,Turbina de gas,Turbina de gas,2023-01-20 23:00:00+00:00,1989.995,0.0013339219371396567
+generacion,Hidroeólica,Hidroeólica,2023-01-20 23:00:00+00:00,88.215,5.9131768514380606e-05
+generacion,Carbón,Carbón,2023-01-21 23:00:00+00:00,6456.936,0.0041785207455587205
+generacion,Nuclear,Nuclear,2023-01-21 23:00:00+00:00,170934.279,0.11061785821148334
+generacion,Hidráulica,Hidráulica,2023-01-21 23:00:00+00:00,101269.087,0.06553495046463075
+generacion,Residuos renovables,Residuos renovables,2023-01-21 23:00:00+00:00,1995.777,0.0012915406932961621
+generacion,Cogeneración,Cogeneración,2023-01-21 23:00:00+00:00,31423.937,0.020335585277851644
+generacion,Residuos no renovables,Residuos no renovables,2023-01-21 23:00:00+00:00,2825.169,0.0018282707581752993
+generacion,Otras renovables,Otras renovables,2023-01-21 23:00:00+00:00,8546.504,0.005530757044208056
+generacion,Motores diésel,Motores diésel,2023-01-21 23:00:00+00:00,5491.035,0.003553450686531356
+generacion,Solar térmica,Solar térmica,2023-01-21 23:00:00+00:00,8608.993,0.005571195974200427
+generacion,Hidroeólica,Hidroeólica,2023-01-21 23:00:00+00:00,90.305,5.8439686552209954e-05
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-21 23:00:00+00:00,75093.175,0.048595555165386724
+generacion,Turbina de vapor,Turbina de vapor,2023-01-21 23:00:00+00:00,3137.4,0.0020303269208671003
+generacion,Eólica,Eólica,2023-01-21 23:00:00+00:00,295888.243,0.19148016361667825
+generacion,Generación total,Generación total,2023-01-21 23:00:00+00:00,772634.192,1.0
+generacion,Ciclo combinado,Ciclo combinado,2023-01-21 23:00:00+00:00,59004.686,0.038184102264011636
+generacion,Turbina de gas,Turbina de gas,2023-01-21 23:00:00+00:00,1868.666,0.0012092824905683178
+generacion,Cogeneración,Cogeneración,2023-01-22 23:00:00+00:00,37672.852,0.022049225066982137
+generacion,Residuos renovables,Residuos renovables,2023-01-22 23:00:00+00:00,1544.056,0.0009037074830443995
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-22 23:00:00+00:00,73907.109,0.043256467028059915
+generacion,Carbón,Carbón,2023-01-22 23:00:00+00:00,8828.295,0.0051670381475953315
+generacion,Turbina de vapor,Turbina de vapor,2023-01-22 23:00:00+00:00,3878.4,0.0022699559486439604
+generacion,Otras renovables,Otras renovables,2023-01-22 23:00:00+00:00,9433.671,0.005521353548886144
+generacion,Turbina de gas,Turbina de gas,2023-01-22 23:00:00+00:00,2381.075,0.0013935992575333687
+generacion,Hidráulica,Hidráulica,2023-01-22 23:00:00+00:00,130485.651,0.07637084356954665
+generacion,Hidroeólica,Hidroeólica,2023-01-22 23:00:00+00:00,97.427,5.702222519815778e-05
+generacion,Ciclo combinado,Ciclo combinado,2023-01-22 23:00:00+00:00,81896.338,0.04793241532984128
+generacion,Motores diésel,Motores diésel,2023-01-22 23:00:00+00:00,6696.958,0.003919605932837964
+generacion,Eólica,Eólica,2023-01-22 23:00:00+00:00,315925.765,0.18490552021236695
+generacion,Residuos no renovables,Residuos no renovables,2023-01-22 23:00:00+00:00,2471.854,0.0014467305310126256
+generacion,Generación total,Generación total,2023-01-22 23:00:00+00:00,854289.706,1.0
+generacion,Nuclear,Nuclear,2023-01-22 23:00:00+00:00,171040.973,0.10010712513490125
+generacion,Solar térmica,Solar térmica,2023-01-22 23:00:00+00:00,8029.282,0.004699390583549886
+generacion,Ciclo combinado,Ciclo combinado,2023-01-23 23:00:00+00:00,118363.671,0.07079604480961635
+generacion,Generación total,Generación total,2023-01-23 23:00:00+00:00,835948.331,1.0
+generacion,Turbina de vapor,Turbina de vapor,2023-01-23 23:00:00+00:00,4029.16,0.0024099336350011805
+generacion,Eólica,Eólica,2023-01-23 23:00:00+00:00,240924.599,0.14410256595153126
+generacion,Residuos no renovables,Residuos no renovables,2023-01-23 23:00:00+00:00,2656.0095,0.0015886206129646547
+generacion,Residuos renovables,Residuos renovables,2023-01-23 23:00:00+00:00,1479.7905,0.0008850968685049029
+generacion,Cogeneración,Cogeneración,2023-01-23 23:00:00+00:00,42035.869,0.025142623916549214
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-23 23:00:00+00:00,62312.258,0.037270400387939766
+generacion,Carbón,Carbón,2023-01-23 23:00:00+00:00,11027.26,0.006595658841024709
+generacion,Nuclear,Nuclear,2023-01-23 23:00:00+00:00,170954.93,0.1022520912240448
+generacion,Hidráulica,Hidráulica,2023-01-23 23:00:00+00:00,158153.313,0.09459514848890822
+generacion,Turbina de gas,Turbina de gas,2023-01-23 23:00:00+00:00,1953.065,0.001168173275532265
+generacion,Hidroeólica,Hidroeólica,2023-01-23 23:00:00+00:00,67.915,4.06215297533742e-05
+generacion,Otras renovables,Otras renovables,2023-01-23 23:00:00+00:00,10124.675,0.006055801910560905
+generacion,Motores diésel,Motores diésel,2023-01-23 23:00:00+00:00,6303.767,0.0037704286055928495
+generacion,Solar térmica,Solar térmica,2023-01-23 23:00:00+00:00,5562.049,0.0033267899424755235
+generacion,Hidráulica,Hidráulica,2023-01-24 23:00:00+00:00,164850.212,0.09876375236602539
+generacion,Turbina de vapor,Turbina de vapor,2023-01-24 23:00:00+00:00,3641.204,0.0021814892793112156
+generacion,Ciclo combinado,Ciclo combinado,2023-01-24 23:00:00+00:00,106009.843,0.0635117768754415
+generacion,Generación total,Generación total,2023-01-24 23:00:00+00:00,834568.392,1.0
+generacion,Solar térmica,Solar térmica,2023-01-24 23:00:00+00:00,6771.8,0.00405706714087969
+generacion,Motores diésel,Motores diésel,2023-01-24 23:00:00+00:00,6411.623,0.0038412807515001116
+generacion,Hidroeólica,Hidroeólica,2023-01-24 23:00:00+00:00,72.754,4.3587799812097365e-05
+generacion,Residuos no renovables,Residuos no renovables,2023-01-24 23:00:00+00:00,2739.6915,0.0016413822559433811
+generacion,Eólica,Eólica,2023-01-24 23:00:00+00:00,226838.507,0.13590168833041547
+generacion,Cogeneración,Cogeneración,2023-01-24 23:00:00+00:00,44156.583,0.02645474200992745
+generacion,Turbina de gas,Turbina de gas,2023-01-24 23:00:00+00:00,1558.957,0.0009339899611247199
+generacion,Otras renovables,Otras renovables,2023-01-24 23:00:00+00:00,11077.073,0.0066364081758802105
+generacion,Residuos renovables,Residuos renovables,2023-01-24 23:00:00+00:00,1475.4525,0.0008839614069639964
+generacion,Carbón,Carbón,2023-01-24 23:00:00+00:00,13729.165,0.008225308513720947
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-24 23:00:00+00:00,74257.352,0.04448847614636237
+generacion,Nuclear,Nuclear,2023-01-24 23:00:00+00:00,170978.175,0.10243508898669146
+generacion,Generación total,Generación total,2023-01-25 23:00:00+00:00,875197.032,1.0
+generacion,Solar térmica,Solar térmica,2023-01-25 23:00:00+00:00,1834.559,0.0010480834217454246
+generacion,Cogeneración,Cogeneración,2023-01-25 23:00:00+00:00,42710.298,0.024400390105527688
+generacion,Nuclear,Nuclear,2023-01-25 23:00:00+00:00,170933.108,0.09765407202614919
+generacion,Motores diésel,Motores diésel,2023-01-25 23:00:00+00:00,6060.687,0.0034624700372612774
+generacion,Turbina de gas,Turbina de gas,2023-01-25 23:00:00+00:00,1563.999,0.0008935125136484694
+generacion,Residuos renovables,Residuos renovables,2023-01-25 23:00:00+00:00,1328.792,0.0007591387718508623
+generacion,Ciclo combinado,Ciclo combinado,2023-01-25 23:00:00+00:00,86341.828,0.04932707998488733
+generacion,Turbina de vapor,Turbina de vapor,2023-01-25 23:00:00+00:00,3094.206,0.0017677196601827596
+generacion,Hidráulica,Hidráulica,2023-01-25 23:00:00+00:00,160553.766,0.09172435470507856
+generacion,Residuos no renovables,Residuos no renovables,2023-01-25 23:00:00+00:00,2491.397,0.0014233349228268404
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-25 23:00:00+00:00,54301.118,0.031022224718879072
+generacion,Otras renovables,Otras renovables,2023-01-25 23:00:00+00:00,10861.518,0.006205184434400594
+generacion,Hidroeólica,Hidroeólica,2023-01-25 23:00:00+00:00,74.559,4.259555121526051e-05
+generacion,Eólica,Eólica,2023-01-25 23:00:00+00:00,319462.052,0.1825086468072026
+generacion,Carbón,Carbón,2023-01-25 23:00:00+00:00,13585.145,0.007761192339144038
+generacion,Eólica,Eólica,2023-01-26 23:00:00+00:00,343516.347,0.1926599834119067
+generacion,Hidráulica,Hidráulica,2023-01-26 23:00:00+00:00,142068.28,0.07967851517749784
+generacion,Motores diésel,Motores diésel,2023-01-26 23:00:00+00:00,6546.706,0.0036716979566699635
+generacion,Residuos no renovables,Residuos no renovables,2023-01-26 23:00:00+00:00,2629.9055,0.0014749736204107986
+generacion,Generación total,Generación total,2023-01-26 23:00:00+00:00,891509.334,1.0
+generacion,Carbón,Carbón,2023-01-26 23:00:00+00:00,9462.524,0.005307024637388709
+generacion,Turbina de gas,Turbina de gas,2023-01-26 23:00:00+00:00,2520.804,0.0014137844124916363
+generacion,Nuclear,Nuclear,2023-01-26 23:00:00+00:00,170977.79,0.09589231625476173
+generacion,Ciclo combinado,Ciclo combinado,2023-01-26 23:00:00+00:00,78349.461,0.043942030673119116
+generacion,Turbina de vapor,Turbina de vapor,2023-01-26 23:00:00+00:00,3642.272,0.002042755953915789
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-26 23:00:00+00:00,76915.025,0.04313753208555862
+generacion,Otras renovables,Otras renovables,2023-01-26 23:00:00+00:00,10140.215,0.00568710534667268
+generacion,Hidroeólica,Hidroeólica,2023-01-26 23:00:00+00:00,92.742,5.201403757820891e-05
+generacion,Cogeneración,Cogeneración,2023-01-26 23:00:00+00:00,36406.728,0.020418590479951162
+generacion,Solar térmica,Solar térmica,2023-01-26 23:00:00+00:00,6864.319,0.0038498301353735464
+generacion,Residuos renovables,Residuos renovables,2023-01-26 23:00:00+00:00,1376.2155,0.0007718458167034738
+generacion,Hidráulica,Hidráulica,2023-01-27 23:00:00+00:00,108241.106,0.06661829258076013
+generacion,Residuos renovables,Residuos renovables,2023-01-27 23:00:00+00:00,1523.3495,0.0009375638003343633
+generacion,Ciclo combinado,Ciclo combinado,2023-01-27 23:00:00+00:00,67429.273,0.041500158333766
+generacion,Hidroeólica,Hidroeólica,2023-01-27 23:00:00+00:00,91.585,5.636709150042236e-05
+generacion,Turbina de vapor,Turbina de vapor,2023-01-27 23:00:00+00:00,4157.698,0.0025589053185251197
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-27 23:00:00+00:00,83000.747,0.0510838095840193
+generacion,Residuos no renovables,Residuos no renovables,2023-01-27 23:00:00+00:00,2414.3655,0.0014859503308834743
+generacion,Eólica,Eólica,2023-01-27 23:00:00+00:00,305861.041,0.1882458621440349
+generacion,Solar térmica,Solar térmica,2023-01-27 23:00:00+00:00,8876.719,0.005463283639204429
+generacion,Motores diésel,Motores diésel,2023-01-27 23:00:00+00:00,6688.6,0.0041165794421545564
+generacion,Otras renovables,Otras renovables,2023-01-27 23:00:00+00:00,9638.737,0.005932276796718966
+generacion,Nuclear,Nuclear,2023-01-27 23:00:00+00:00,170941.147,0.10520778811089315
+generacion,Carbón,Carbón,2023-01-27 23:00:00+00:00,6420.315,0.003951460207092146
+generacion,Cogeneración,Cogeneración,2023-01-27 23:00:00+00:00,33714.396,0.020749931148260892
+generacion,Turbina de gas,Turbina de gas,2023-01-27 23:00:00+00:00,3398.701,0.0020917714718521265
+generacion,Generación total,Generación total,2023-01-27 23:00:00+00:00,812397.78,1.0
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-28 23:00:00+00:00,80298.911,0.053079001335889005
+generacion,Residuos renovables,Residuos renovables,2023-01-28 23:00:00+00:00,1852.718,0.0012246793882052225
+generacion,Hidroeólica,Hidroeólica,2023-01-28 23:00:00+00:00,45.811,3.028188178291e-05
+generacion,Turbina de gas,Turbina de gas,2023-01-28 23:00:00+00:00,2258.454,0.0014928780650965974
+generacion,Otras renovables,Otras renovables,2023-01-28 23:00:00+00:00,9931.754,0.006565065170481839
+generacion,Motores diésel,Motores diésel,2023-01-28 23:00:00+00:00,7033.991,0.004649592541617797
+generacion,Carbón,Carbón,2023-01-28 23:00:00+00:00,6359.888,0.004203998528051077
+generacion,Cogeneración,Cogeneración,2023-01-28 23:00:00+00:00,35841.101,0.023691602092321438
+generacion,Residuos no renovables,Residuos no renovables,2023-01-28 23:00:00+00:00,2716.659,0.0017957596796070484
+generacion,Nuclear,Nuclear,2023-01-28 23:00:00+00:00,170936.117,0.11299179863839846
+generacion,Eólica,Eólica,2023-01-28 23:00:00+00:00,232180.144,0.15347518440870142
+generacion,Turbina de vapor,Turbina de vapor,2023-01-28 23:00:00+00:00,4562.936,0.0030161814528166645
+generacion,Generación total,Generación total,2023-01-28 23:00:00+00:00,756409.399,1.0
+generacion,Hidráulica,Hidráulica,2023-01-28 23:00:00+00:00,107171.255,0.0708420963182664
+generacion,Solar térmica,Solar térmica,2023-01-28 23:00:00+00:00,8461.251,0.005593036661883151
+generacion,Ciclo combinado,Ciclo combinado,2023-01-28 23:00:00+00:00,86758.409,0.057348843836880985
+generacion,Residuos renovables,Residuos renovables,2023-01-29 23:00:00+00:00,2107.4895,0.0012923658746332948
+generacion,Residuos no renovables,Residuos no renovables,2023-01-29 23:00:00+00:00,3239.2275,0.00198637624584783
+generacion,Motores diésel,Motores diésel,2023-01-29 23:00:00+00:00,7228.19,0.00443250895976736
+generacion,Eólica,Eólica,2023-01-29 23:00:00+00:00,156727.849,0.09610948175650694
+generacion,Turbina de vapor,Turbina de vapor,2023-01-29 23:00:00+00:00,5566.996,0.003413822775686452
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-29 23:00:00+00:00,81011.5,0.04967830115066061
+generacion,Solar térmica,Solar térmica,2023-01-29 23:00:00+00:00,7323.485,0.004490946264448205
+generacion,Otras renovables,Otras renovables,2023-01-29 23:00:00+00:00,11435.893,0.007012778881772731
+generacion,Cogeneración,Cogeneración,2023-01-29 23:00:00+00:00,49317.312,0.030242623300112802
+generacion,Generación total,Generación total,2023-01-29 23:00:00+00:00,815361.014,1.0
+generacion,Turbina de gas,Turbina de gas,2023-01-29 23:00:00+00:00,3409.522,0.002090805141193567
+generacion,Carbón,Carbón,2023-01-29 23:00:00+00:00,12827.529,0.007866165281235779
+generacion,Nuclear,Nuclear,2023-01-29 23:00:00+00:00,170899.091,0.104799645841296
+generacion,Hidroeólica,Hidroeólica,2023-01-29 23:00:00+00:00,28.404,1.7418051336950483e-05
+generacion,Hidráulica,Hidráulica,2023-01-29 23:00:00+00:00,157011.457,0.09628339735654813
+generacion,Ciclo combinado,Ciclo combinado,2023-01-29 23:00:00+00:00,147227.069,0.09028336311895334
+generacion,Hidroeólica,Hidroeólica,2023-01-30 23:00:00+00:00,42.452,2.4714831296906214e-05
+generacion,Residuos no renovables,Residuos no renovables,2023-01-30 23:00:00+00:00,3821.986,0.002225095147675902
+generacion,Cogeneración,Cogeneración,2023-01-30 23:00:00+00:00,54334.401,0.031632562761081985
+generacion,Otras renovables,Otras renovables,2023-01-30 23:00:00+00:00,12404.807,0.007221867339010679
+generacion,Solar térmica,Solar térmica,2023-01-30 23:00:00+00:00,7715.756,0.004491981717424195
+generacion,Solar fotovoltaica,Solar fotovoltaica,2023-01-30 23:00:00+00:00,84252.618,0.04905043908868096
+generacion,Eólica,Eólica,2023-01-30 23:00:00+00:00,212205.361,0.12354234658942057
+generacion,Ciclo combinado,Ciclo combinado,2023-01-30 23:00:00+00:00,133523.136,0.07773489542245042
+generacion,Turbina de vapor,Turbina de vapor,2023-01-30 23:00:00+00:00,4555.41,0.002652082107750861
+generacion,Turbina de gas,Turbina de gas,2023-01-30 23:00:00+00:00,3242.183,0.0018875437171086706
+generacion,Motores diésel,Motores diésel,2023-01-30 23:00:00+00:00,7210.429,0.004197788945475365
+generacion,Carbón,Carbón,2023-01-30 23:00:00+00:00,15331.504,0.008925740480727477
+generacion,Nuclear,Nuclear,2023-01-30 23:00:00+00:00,170892.337,0.09949060771904844
+generacion,Hidráulica,Hidráulica,2023-01-30 23:00:00+00:00,146938.267,0.08554495618497979
+generacion,Residuos renovables,Residuos renovables,2023-01-30 23:00:00+00:00,2365.885,0.0013773779478677322
+generacion,Generación total,Generación total,2023-01-30 23:00:00+00:00,858836.532,1.0

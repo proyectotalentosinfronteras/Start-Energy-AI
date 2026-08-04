@@ -1,0 +1,7432 @@
+[
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "01:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "02:00",
+    "consumptionKWh": 0.047,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "03:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "04:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "05:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "06:00",
+    "consumptionKWh": 0.09,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "07:00",
+    "consumptionKWh": 0.057,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "08:00",
+    "consumptionKWh": 0.395,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "09:00",
+    "consumptionKWh": 0.109,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "10:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "11:00",
+    "consumptionKWh": 0.311,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "12:00",
+    "consumptionKWh": 0.535,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "13:00",
+    "consumptionKWh": 0.115,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "14:00",
+    "consumptionKWh": 0.686,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "15:00",
+    "consumptionKWh": 0.213,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "16:00",
+    "consumptionKWh": 0.383,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "17:00",
+    "consumptionKWh": 0.16,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "18:00",
+    "consumptionKWh": 0.141,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "19:00",
+    "consumptionKWh": 0.145,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "20:00",
+    "consumptionKWh": 0.182,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "21:00",
+    "consumptionKWh": 0.072,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "22:00",
+    "consumptionKWh": 1.362,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "23:00",
+    "consumptionKWh": 1.831,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/01",
+    "time": "24:00",
+    "consumptionKWh": 1.185,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "01:00",
+    "consumptionKWh": 0.154,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "02:00",
+    "consumptionKWh": 0.068,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "03:00",
+    "consumptionKWh": 0.034,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "04:00",
+    "consumptionKWh": 0.044,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "05:00",
+    "consumptionKWh": 0.101,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "06:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "07:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "08:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "09:00",
+    "consumptionKWh": 0.43,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "10:00",
+    "consumptionKWh": 0.278,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "11:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "12:00",
+    "consumptionKWh": 0.169,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "13:00",
+    "consumptionKWh": 0.116,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "14:00",
+    "consumptionKWh": 0.57,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "15:00",
+    "consumptionKWh": 0.441,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "16:00",
+    "consumptionKWh": 0.516,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "17:00",
+    "consumptionKWh": 0.128,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "18:00",
+    "consumptionKWh": 0.12,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "19:00",
+    "consumptionKWh": 0.15,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "20:00",
+    "consumptionKWh": 1.271,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "21:00",
+    "consumptionKWh": 1.958,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "22:00",
+    "consumptionKWh": 0.264,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "23:00",
+    "consumptionKWh": 0.191,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/02",
+    "time": "24:00",
+    "consumptionKWh": 0.184,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "01:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "02:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "03:00",
+    "consumptionKWh": 0.075,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "04:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "05:00",
+    "consumptionKWh": 0.055,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "06:00",
+    "consumptionKWh": 0.487,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "07:00",
+    "consumptionKWh": 0.149,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "08:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "09:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "10:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "11:00",
+    "consumptionKWh": 0.118,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "12:00",
+    "consumptionKWh": 0.42,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "13:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "14:00",
+    "consumptionKWh": 0.034,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "15:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "16:00",
+    "consumptionKWh": 0.407,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "17:00",
+    "consumptionKWh": 1.561,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "18:00",
+    "consumptionKWh": 0.114,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "19:00",
+    "consumptionKWh": 0.094,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "20:00",
+    "consumptionKWh": 1.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "21:00",
+    "consumptionKWh": 1.289,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "22:00",
+    "consumptionKWh": 1.609,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "23:00",
+    "consumptionKWh": 0.09,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/03",
+    "time": "24:00",
+    "consumptionKWh": 0.157,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "01:00",
+    "consumptionKWh": 0.112,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "02:00",
+    "consumptionKWh": 0.086,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "03:00",
+    "consumptionKWh": 0.096,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "04:00",
+    "consumptionKWh": 0.058,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "05:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "06:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "07:00",
+    "consumptionKWh": 0.118,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "08:00",
+    "consumptionKWh": 0.519,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "09:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "10:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "11:00",
+    "consumptionKWh": 0.072,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "12:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "13:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "14:00",
+    "consumptionKWh": 0.38,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "15:00",
+    "consumptionKWh": 0.273,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "16:00",
+    "consumptionKWh": 0.765,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "17:00",
+    "consumptionKWh": 0.161,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "18:00",
+    "consumptionKWh": 0.863,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "19:00",
+    "consumptionKWh": 1.186,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "20:00",
+    "consumptionKWh": 0.684,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "21:00",
+    "consumptionKWh": 0.632,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "22:00",
+    "consumptionKWh": 1.504,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "23:00",
+    "consumptionKWh": 0.949,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/04",
+    "time": "24:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "01:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "02:00",
+    "consumptionKWh": 0.087,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "03:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "04:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "05:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "06:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "07:00",
+    "consumptionKWh": 0.101,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "08:00",
+    "consumptionKWh": 0.54,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "09:00",
+    "consumptionKWh": 0.086,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "10:00",
+    "consumptionKWh": 0.055,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "11:00",
+    "consumptionKWh": 0.071,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "12:00",
+    "consumptionKWh": 0.044,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "13:00",
+    "consumptionKWh": 0.081,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "14:00",
+    "consumptionKWh": 0.47,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "15:00",
+    "consumptionKWh": 0.194,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "16:00",
+    "consumptionKWh": 0.133,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "17:00",
+    "consumptionKWh": 1.796,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "18:00",
+    "consumptionKWh": 0.669,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "19:00",
+    "consumptionKWh": 0.092,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "20:00",
+    "consumptionKWh": 0.561,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "21:00",
+    "consumptionKWh": 1.402,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "22:00",
+    "consumptionKWh": 0.824,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "23:00",
+    "consumptionKWh": 0.105,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/05",
+    "time": "24:00",
+    "consumptionKWh": 0.064,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "01:00",
+    "consumptionKWh": 0.089,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "02:00",
+    "consumptionKWh": 0.064,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "03:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "04:00",
+    "consumptionKWh": 0.052,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "05:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "06:00",
+    "consumptionKWh": 0.469,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "07:00",
+    "consumptionKWh": 0.109,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "08:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "09:00",
+    "consumptionKWh": 0.566,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "10:00",
+    "consumptionKWh": 0.172,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "11:00",
+    "consumptionKWh": 0.107,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "12:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "13:00",
+    "consumptionKWh": 0.654,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "14:00",
+    "consumptionKWh": 0.086,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "15:00",
+    "consumptionKWh": 0.077,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "16:00",
+    "consumptionKWh": 0.179,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "17:00",
+    "consumptionKWh": 1.925,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "18:00",
+    "consumptionKWh": 1.227,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "19:00",
+    "consumptionKWh": 0.1,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "20:00",
+    "consumptionKWh": 0.699,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "21:00",
+    "consumptionKWh": 1.273,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "22:00",
+    "consumptionKWh": 1.355,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "23:00",
+    "consumptionKWh": 0.201,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/06",
+    "time": "24:00",
+    "consumptionKWh": 0.147,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "01:00",
+    "consumptionKWh": 0.16,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "02:00",
+    "consumptionKWh": 0.062,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "03:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "04:00",
+    "consumptionKWh": 0.053,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "05:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "06:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "07:00",
+    "consumptionKWh": 0.284,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "08:00",
+    "consumptionKWh": 0.261,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "09:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "10:00",
+    "consumptionKWh": 0.096,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "11:00",
+    "consumptionKWh": 0.907,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "12:00",
+    "consumptionKWh": 1.098,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "13:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "14:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "15:00",
+    "consumptionKWh": 0.179,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "16:00",
+    "consumptionKWh": 0.117,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "17:00",
+    "consumptionKWh": 0.115,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "18:00",
+    "consumptionKWh": 0.126,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "19:00",
+    "consumptionKWh": 1.577,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "20:00",
+    "consumptionKWh": 1.016,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "21:00",
+    "consumptionKWh": 0.065,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "22:00",
+    "consumptionKWh": 0.086,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "23:00",
+    "consumptionKWh": 1.502,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/07",
+    "time": "24:00",
+    "consumptionKWh": 0.064,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "01:00",
+    "consumptionKWh": 0.073,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "02:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "03:00",
+    "consumptionKWh": 0.056,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "04:00",
+    "consumptionKWh": 0.034,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "05:00",
+    "consumptionKWh": 0.036,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "06:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "07:00",
+    "consumptionKWh": 0.025,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "08:00",
+    "consumptionKWh": 0.051,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "09:00",
+    "consumptionKWh": 0.092,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "10:00",
+    "consumptionKWh": 1.576,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "11:00",
+    "consumptionKWh": 0.39,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "12:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "13:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "14:00",
+    "consumptionKWh": 0.068,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "15:00",
+    "consumptionKWh": 0.1,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "16:00",
+    "consumptionKWh": 0.108,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "17:00",
+    "consumptionKWh": 0.137,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "18:00",
+    "consumptionKWh": 0.988,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "19:00",
+    "consumptionKWh": 1.151,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "20:00",
+    "consumptionKWh": 0.534,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "21:00",
+    "consumptionKWh": 0.222,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "22:00",
+    "consumptionKWh": 0.211,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "23:00",
+    "consumptionKWh": 0.171,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/08",
+    "time": "24:00",
+    "consumptionKWh": 1.056,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "01:00",
+    "consumptionKWh": 1.792,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "02:00",
+    "consumptionKWh": 0.503,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "03:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "04:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "05:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "06:00",
+    "consumptionKWh": 0.025,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "07:00",
+    "consumptionKWh": 0.044,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "08:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "09:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "10:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "11:00",
+    "consumptionKWh": 0.936,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "12:00",
+    "consumptionKWh": 0.33,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "13:00",
+    "consumptionKWh": 0.194,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "14:00",
+    "consumptionKWh": 0.367,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "15:00",
+    "consumptionKWh": 0.982,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "16:00",
+    "consumptionKWh": 0.75,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "17:00",
+    "consumptionKWh": 0.153,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "18:00",
+    "consumptionKWh": 0.146,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "19:00",
+    "consumptionKWh": 0.137,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "20:00",
+    "consumptionKWh": 0.182,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "21:00",
+    "consumptionKWh": 1.697,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "22:00",
+    "consumptionKWh": 0.437,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "23:00",
+    "consumptionKWh": 1.908,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/09",
+    "time": "24:00",
+    "consumptionKWh": 0.743,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "01:00",
+    "consumptionKWh": 0.048,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "02:00",
+    "consumptionKWh": 0.111,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "03:00",
+    "consumptionKWh": 0.071,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "04:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "05:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "06:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "07:00",
+    "consumptionKWh": 0.107,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "08:00",
+    "consumptionKWh": 0.495,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "09:00",
+    "consumptionKWh": 0.108,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "10:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "11:00",
+    "consumptionKWh": 0.044,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "12:00",
+    "consumptionKWh": 0.027,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "13:00",
+    "consumptionKWh": 0.09,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "14:00",
+    "consumptionKWh": 0.048,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "15:00",
+    "consumptionKWh": 0.457,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "16:00",
+    "consumptionKWh": 0.131,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "17:00",
+    "consumptionKWh": 0.115,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "18:00",
+    "consumptionKWh": 0.094,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "19:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "20:00",
+    "consumptionKWh": 1.526,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "21:00",
+    "consumptionKWh": 0.635,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "22:00",
+    "consumptionKWh": 1.756,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "23:00",
+    "consumptionKWh": 0.358,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/10",
+    "time": "24:00",
+    "consumptionKWh": 0.093,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "01:00",
+    "consumptionKWh": 0.08,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "02:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "03:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "04:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "05:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "06:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "07:00",
+    "consumptionKWh": 0.576,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "08:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "09:00",
+    "consumptionKWh": 0.181,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "10:00",
+    "consumptionKWh": 0.047,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "11:00",
+    "consumptionKWh": 0.419,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "12:00",
+    "consumptionKWh": 0.053,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "13:00",
+    "consumptionKWh": 0.074,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "14:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "15:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "16:00",
+    "consumptionKWh": 0.105,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "17:00",
+    "consumptionKWh": 0.51,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "18:00",
+    "consumptionKWh": 1.115,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "19:00",
+    "consumptionKWh": 1.173,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "20:00",
+    "consumptionKWh": 1.431,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "21:00",
+    "consumptionKWh": 0.17,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "22:00",
+    "consumptionKWh": 0.093,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "23:00",
+    "consumptionKWh": 0.1,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/11",
+    "time": "24:00",
+    "consumptionKWh": 0.117,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "01:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "02:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "03:00",
+    "consumptionKWh": 0.422,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "04:00",
+    "consumptionKWh": 0.026,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "05:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "06:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "07:00",
+    "consumptionKWh": 0.108,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "08:00",
+    "consumptionKWh": 0.078,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "09:00",
+    "consumptionKWh": 0.58,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "10:00",
+    "consumptionKWh": 0.073,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "11:00",
+    "consumptionKWh": 0.051,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "12:00",
+    "consumptionKWh": 0.036,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "13:00",
+    "consumptionKWh": 0.037,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "14:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "15:00",
+    "consumptionKWh": 0.081,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "16:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "17:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "18:00",
+    "consumptionKWh": 0.599,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "19:00",
+    "consumptionKWh": 1.426,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "20:00",
+    "consumptionKWh": 0.116,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "21:00",
+    "consumptionKWh": 1.591,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "22:00",
+    "consumptionKWh": 1.818,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "23:00",
+    "consumptionKWh": 0.576,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/12",
+    "time": "24:00",
+    "consumptionKWh": 0.114,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "01:00",
+    "consumptionKWh": 0.062,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "02:00",
+    "consumptionKWh": 0.027,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "03:00",
+    "consumptionKWh": 0.048,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "04:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "05:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "06:00",
+    "consumptionKWh": 0.036,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "07:00",
+    "consumptionKWh": 0.091,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "08:00",
+    "consumptionKWh": 0.051,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "09:00",
+    "consumptionKWh": 0.505,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "10:00",
+    "consumptionKWh": 0.027,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "11:00",
+    "consumptionKWh": 0.09,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "12:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "13:00",
+    "consumptionKWh": 0.026,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "14:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "15:00",
+    "consumptionKWh": 0.064,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "16:00",
+    "consumptionKWh": 0.119,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "17:00",
+    "consumptionKWh": 0.116,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "18:00",
+    "consumptionKWh": 0.985,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "19:00",
+    "consumptionKWh": 0.051,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "20:00",
+    "consumptionKWh": 2.286,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "21:00",
+    "consumptionKWh": 1.789,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "22:00",
+    "consumptionKWh": 0.573,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "23:00",
+    "consumptionKWh": 0.053,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/13",
+    "time": "24:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "01:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "02:00",
+    "consumptionKWh": 0.036,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "03:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "04:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "05:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "06:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "07:00",
+    "consumptionKWh": 0.503,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "08:00",
+    "consumptionKWh": 0.123,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "09:00",
+    "consumptionKWh": 0.118,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "10:00",
+    "consumptionKWh": 0.026,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "11:00",
+    "consumptionKWh": 0.036,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "12:00",
+    "consumptionKWh": 0.454,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "13:00",
+    "consumptionKWh": 0.064,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "14:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "15:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "16:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "17:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "18:00",
+    "consumptionKWh": 1.155,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "19:00",
+    "consumptionKWh": 0.541,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "20:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "21:00",
+    "consumptionKWh": 0.964,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "22:00",
+    "consumptionKWh": 1.704,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "23:00",
+    "consumptionKWh": 0.113,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/14",
+    "time": "24:00",
+    "consumptionKWh": 0.108,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "01:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "02:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "03:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "04:00",
+    "consumptionKWh": 0.036,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "05:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "06:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "07:00",
+    "consumptionKWh": 0.542,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "08:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "09:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "10:00",
+    "consumptionKWh": 0.098,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "11:00",
+    "consumptionKWh": 0.248,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "12:00",
+    "consumptionKWh": 1.11,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "13:00",
+    "consumptionKWh": 0.361,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "14:00",
+    "consumptionKWh": 0.862,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "15:00",
+    "consumptionKWh": 0.604,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "16:00",
+    "consumptionKWh": 1.743,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "17:00",
+    "consumptionKWh": 1.43,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "18:00",
+    "consumptionKWh": 0.489,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "19:00",
+    "consumptionKWh": 0.103,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "20:00",
+    "consumptionKWh": 0.094,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "21:00",
+    "consumptionKWh": 0.089,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "22:00",
+    "consumptionKWh": 1.583,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "23:00",
+    "consumptionKWh": 0.812,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/15",
+    "time": "24:00",
+    "consumptionKWh": 0.073,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "01:00",
+    "consumptionKWh": 0.065,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "02:00",
+    "consumptionKWh": 0.06,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "03:00",
+    "consumptionKWh": 0.051,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "04:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "05:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "06:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "07:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "08:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "09:00",
+    "consumptionKWh": 0.513,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "10:00",
+    "consumptionKWh": 0.151,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "11:00",
+    "consumptionKWh": 0.093,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "12:00",
+    "consumptionKWh": 0.113,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "13:00",
+    "consumptionKWh": 0.098,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "14:00",
+    "consumptionKWh": 0.122,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "15:00",
+    "consumptionKWh": 1.317,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "16:00",
+    "consumptionKWh": 0.545,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "17:00",
+    "consumptionKWh": 0.069,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "18:00",
+    "consumptionKWh": 1.048,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "19:00",
+    "consumptionKWh": 1.759,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "20:00",
+    "consumptionKWh": 0.169,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "21:00",
+    "consumptionKWh": 1.362,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "22:00",
+    "consumptionKWh": 0.52,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "23:00",
+    "consumptionKWh": 0.112,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/16",
+    "time": "24:00",
+    "consumptionKWh": 0.094,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "01:00",
+    "consumptionKWh": 0.097,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "02:00",
+    "consumptionKWh": 0.123,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "03:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "04:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "05:00",
+    "consumptionKWh": 0.047,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "06:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "07:00",
+    "consumptionKWh": 0.087,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "08:00",
+    "consumptionKWh": 0.461,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "09:00",
+    "consumptionKWh": 0.505,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "10:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "11:00",
+    "consumptionKWh": 0.026,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "12:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "13:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "14:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "15:00",
+    "consumptionKWh": 0.112,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "16:00",
+    "consumptionKWh": 1.147,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "17:00",
+    "consumptionKWh": 0.125,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "18:00",
+    "consumptionKWh": 0.095,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "19:00",
+    "consumptionKWh": 0.166,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "20:00",
+    "consumptionKWh": 1.809,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "21:00",
+    "consumptionKWh": 1.789,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "22:00",
+    "consumptionKWh": 0.202,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "23:00",
+    "consumptionKWh": 0.094,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/17",
+    "time": "24:00",
+    "consumptionKWh": 0.081,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "01:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "02:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "03:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "04:00",
+    "consumptionKWh": 0.093,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "05:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "06:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "07:00",
+    "consumptionKWh": 0.529,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "08:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "09:00",
+    "consumptionKWh": 0.085,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "10:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "11:00",
+    "consumptionKWh": 0.024,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "12:00",
+    "consumptionKWh": 0.434,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "13:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "14:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "15:00",
+    "consumptionKWh": 0.093,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "16:00",
+    "consumptionKWh": 0.152,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "17:00",
+    "consumptionKWh": 0.109,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "18:00",
+    "consumptionKWh": 1.356,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "19:00",
+    "consumptionKWh": 2.087,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "20:00",
+    "consumptionKWh": 1.496,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "21:00",
+    "consumptionKWh": 0.973,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "22:00",
+    "consumptionKWh": 0.161,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "23:00",
+    "consumptionKWh": 0.114,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/18",
+    "time": "24:00",
+    "consumptionKWh": 0.077,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "01:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "02:00",
+    "consumptionKWh": 0.088,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "03:00",
+    "consumptionKWh": 0.065,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "04:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "05:00",
+    "consumptionKWh": 0.044,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "06:00",
+    "consumptionKWh": 0.037,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "07:00",
+    "consumptionKWh": 0.193,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "08:00",
+    "consumptionKWh": 0.292,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "09:00",
+    "consumptionKWh": 0.294,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "10:00",
+    "consumptionKWh": 1.419,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "11:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "12:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "13:00",
+    "consumptionKWh": 0.034,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "14:00",
+    "consumptionKWh": 0.094,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "15:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "16:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "17:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "18:00",
+    "consumptionKWh": 0.52,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "19:00",
+    "consumptionKWh": 0.895,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "20:00",
+    "consumptionKWh": 1.339,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "21:00",
+    "consumptionKWh": 0.561,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "22:00",
+    "consumptionKWh": 0.108,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "23:00",
+    "consumptionKWh": 0.106,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/19",
+    "time": "24:00",
+    "consumptionKWh": 0.483,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "01:00",
+    "consumptionKWh": 0.099,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "02:00",
+    "consumptionKWh": 0.057,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "03:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "04:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "05:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "06:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "07:00",
+    "consumptionKWh": 0.29,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "08:00",
+    "consumptionKWh": 0.298,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "09:00",
+    "consumptionKWh": 0.105,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "10:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "11:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "12:00",
+    "consumptionKWh": 0.074,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "13:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "14:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "15:00",
+    "consumptionKWh": 0.458,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "16:00",
+    "consumptionKWh": 0.984,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "17:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "18:00",
+    "consumptionKWh": 0.047,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "19:00",
+    "consumptionKWh": 1.559,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "20:00",
+    "consumptionKWh": 1.591,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "21:00",
+    "consumptionKWh": 0.396,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "22:00",
+    "consumptionKWh": 0.077,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "23:00",
+    "consumptionKWh": 0.101,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/20",
+    "time": "24:00",
+    "consumptionKWh": 0.112,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "01:00",
+    "consumptionKWh": 0.387,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "02:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "03:00",
+    "consumptionKWh": 0.099,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "04:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "05:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "06:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "07:00",
+    "consumptionKWh": 0.121,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "08:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "09:00",
+    "consumptionKWh": 0.674,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "10:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "11:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "12:00",
+    "consumptionKWh": 0.026,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "13:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "14:00",
+    "consumptionKWh": 0.08,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "15:00",
+    "consumptionKWh": 0.117,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "16:00",
+    "consumptionKWh": 0.105,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "17:00",
+    "consumptionKWh": 0.101,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "18:00",
+    "consumptionKWh": 0.113,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "19:00",
+    "consumptionKWh": 0.173,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "20:00",
+    "consumptionKWh": 0.479,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "21:00",
+    "consumptionKWh": 0.97,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "22:00",
+    "consumptionKWh": 1.505,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "23:00",
+    "consumptionKWh": 0.122,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/21",
+    "time": "24:00",
+    "consumptionKWh": 0.997,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "01:00",
+    "consumptionKWh": 1.392,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "02:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "03:00",
+    "consumptionKWh": 0.037,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "04:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "05:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "06:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "07:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "08:00",
+    "consumptionKWh": 0.026,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "09:00",
+    "consumptionKWh": 0.043,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "10:00",
+    "consumptionKWh": 0.712,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "11:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "12:00",
+    "consumptionKWh": 0.053,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "13:00",
+    "consumptionKWh": 0.057,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "14:00",
+    "consumptionKWh": 0.278,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "15:00",
+    "consumptionKWh": 0.142,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "16:00",
+    "consumptionKWh": 0.44,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "17:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "18:00",
+    "consumptionKWh": 0.61,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "19:00",
+    "consumptionKWh": 0.269,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "20:00",
+    "consumptionKWh": 1.897,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "21:00",
+    "consumptionKWh": 1.93,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "22:00",
+    "consumptionKWh": 0.138,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "23:00",
+    "consumptionKWh": 0.109,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/22",
+    "time": "24:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "01:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "02:00",
+    "consumptionKWh": 0.081,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "03:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "04:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "05:00",
+    "consumptionKWh": 0.45,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "06:00",
+    "consumptionKWh": 0.594,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "07:00",
+    "consumptionKWh": 0.471,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "08:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "09:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "10:00",
+    "consumptionKWh": 0.152,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "11:00",
+    "consumptionKWh": 0.208,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "12:00",
+    "consumptionKWh": 1.427,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "13:00",
+    "consumptionKWh": 1.558,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "14:00",
+    "consumptionKWh": 0.35,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "15:00",
+    "consumptionKWh": 2.08,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "16:00",
+    "consumptionKWh": 0.235,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "17:00",
+    "consumptionKWh": 0.108,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "18:00",
+    "consumptionKWh": 0.45,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "19:00",
+    "consumptionKWh": 0.127,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "20:00",
+    "consumptionKWh": 0.172,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "21:00",
+    "consumptionKWh": 1.844,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "22:00",
+    "consumptionKWh": 1.54,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "23:00",
+    "consumptionKWh": 0.185,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/23",
+    "time": "24:00",
+    "consumptionKWh": 0.121,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "01:00",
+    "consumptionKWh": 0.128,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "02:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "03:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "04:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "05:00",
+    "consumptionKWh": 0.096,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "06:00",
+    "consumptionKWh": 0.052,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "07:00",
+    "consumptionKWh": 0.111,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "08:00",
+    "consumptionKWh": 0.036,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "09:00",
+    "consumptionKWh": 0.569,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "10:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "11:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "12:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "13:00",
+    "consumptionKWh": 0.047,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "14:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "15:00",
+    "consumptionKWh": 0.09,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "16:00",
+    "consumptionKWh": 0.147,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "17:00",
+    "consumptionKWh": 0.118,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "18:00",
+    "consumptionKWh": 0.098,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "19:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "20:00",
+    "consumptionKWh": 1.358,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "21:00",
+    "consumptionKWh": 1.612,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "22:00",
+    "consumptionKWh": 1.546,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "23:00",
+    "consumptionKWh": 0.105,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/24",
+    "time": "24:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "01:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "02:00",
+    "consumptionKWh": 0.029,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "03:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "04:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "05:00",
+    "consumptionKWh": 0.089,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "06:00",
+    "consumptionKWh": 0.052,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "07:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "08:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "09:00",
+    "consumptionKWh": 0.594,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "10:00",
+    "consumptionKWh": 0.129,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "11:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "12:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "13:00",
+    "consumptionKWh": 0.038,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "14:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "15:00",
+    "consumptionKWh": 0.073,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "16:00",
+    "consumptionKWh": 0.905,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "17:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "18:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "19:00",
+    "consumptionKWh": 0.564,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "20:00",
+    "consumptionKWh": 2.103,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "21:00",
+    "consumptionKWh": 0.595,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "22:00",
+    "consumptionKWh": 1.642,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "23:00",
+    "consumptionKWh": 0.282,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/25",
+    "time": "24:00",
+    "consumptionKWh": 0.089,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "01:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "02:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "03:00",
+    "consumptionKWh": 0.047,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "04:00",
+    "consumptionKWh": 0.095,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "05:00",
+    "consumptionKWh": 0.098,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "06:00",
+    "consumptionKWh": 0.034,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "07:00",
+    "consumptionKWh": 0.151,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "08:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "09:00",
+    "consumptionKWh": 0.572,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "10:00",
+    "consumptionKWh": 0.056,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "11:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "12:00",
+    "consumptionKWh": 0.028,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "13:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "14:00",
+    "consumptionKWh": 0.271,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "15:00",
+    "consumptionKWh": 0.204,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "16:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "17:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "18:00",
+    "consumptionKWh": 0.055,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "19:00",
+    "consumptionKWh": 0.052,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "20:00",
+    "consumptionKWh": 0.312,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "21:00",
+    "consumptionKWh": 0.155,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "22:00",
+    "consumptionKWh": 0.166,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "23:00",
+    "consumptionKWh": 0.403,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/26",
+    "time": "24:00",
+    "consumptionKWh": 1.789,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "01:00",
+    "consumptionKWh": 0.676,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "02:00",
+    "consumptionKWh": 0.052,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "03:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "04:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "05:00",
+    "consumptionKWh": 0.035,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "06:00",
+    "consumptionKWh": 0.059,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "07:00",
+    "consumptionKWh": 0.147,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "08:00",
+    "consumptionKWh": 0.689,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "09:00",
+    "consumptionKWh": 0.368,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "10:00",
+    "consumptionKWh": 0.054,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "11:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "12:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "13:00",
+    "consumptionKWh": 0.051,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "14:00",
+    "consumptionKWh": 0.06,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "15:00",
+    "consumptionKWh": 0.239,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "16:00",
+    "consumptionKWh": 0.489,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "17:00",
+    "consumptionKWh": 0.095,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "18:00",
+    "consumptionKWh": 0.225,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "19:00",
+    "consumptionKWh": 0.808,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "20:00",
+    "consumptionKWh": 0.034,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "21:00",
+    "consumptionKWh": 0.042,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "22:00",
+    "consumptionKWh": 1.514,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "23:00",
+    "consumptionKWh": 1.982,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/27",
+    "time": "24:00",
+    "consumptionKWh": 0.879,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "01:00",
+    "consumptionKWh": 1.206,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "02:00",
+    "consumptionKWh": 0.031,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "03:00",
+    "consumptionKWh": 0.1,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "04:00",
+    "consumptionKWh": 0.055,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "05:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "06:00",
+    "consumptionKWh": 0.04,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "07:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "08:00",
+    "consumptionKWh": 0.048,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "09:00",
+    "consumptionKWh": 0.032,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "10:00",
+    "consumptionKWh": 0.194,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "11:00",
+    "consumptionKWh": 0.945,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "12:00",
+    "consumptionKWh": 0.897,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "13:00",
+    "consumptionKWh": 0.438,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "14:00",
+    "consumptionKWh": 0.792,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "15:00",
+    "consumptionKWh": 1.756,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "16:00",
+    "consumptionKWh": 1.004,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "17:00",
+    "consumptionKWh": 0.934,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "18:00",
+    "consumptionKWh": 0.15,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "19:00",
+    "consumptionKWh": 0.095,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "20:00",
+    "consumptionKWh": 0.048,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "21:00",
+    "consumptionKWh": 0.26,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "22:00",
+    "consumptionKWh": 1.351,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "23:00",
+    "consumptionKWh": 1.845,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/28",
+    "time": "24:00",
+    "consumptionKWh": 0.524,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "01:00",
+    "consumptionKWh": 0.069,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "02:00",
+    "consumptionKWh": 0.064,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "03:00",
+    "consumptionKWh": 0.084,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "04:00",
+    "consumptionKWh": 0.098,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "05:00",
+    "consumptionKWh": 0.06,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "06:00",
+    "consumptionKWh": 0.055,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "07:00",
+    "consumptionKWh": 0.053,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "08:00",
+    "consumptionKWh": 0.866,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "09:00",
+    "consumptionKWh": 1.215,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "10:00",
+    "consumptionKWh": 1.978,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "11:00",
+    "consumptionKWh": 1.867,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "12:00",
+    "consumptionKWh": 0.846,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "13:00",
+    "consumptionKWh": 0.033,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "14:00",
+    "consumptionKWh": 0.09,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "15:00",
+    "consumptionKWh": 0.052,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "16:00",
+    "consumptionKWh": 0.041,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "17:00",
+    "consumptionKWh": 0.037,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "18:00",
+    "consumptionKWh": 0.044,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "19:00",
+    "consumptionKWh": 0.461,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "20:00",
+    "consumptionKWh": 0.311,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "21:00",
+    "consumptionKWh": 1.619,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "22:00",
+    "consumptionKWh": 1.496,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "23:00",
+    "consumptionKWh": 0.213,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/29",
+    "time": "24:00",
+    "consumptionKWh": 0.078,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "01:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "03:00",
+    "consumptionKWh": 0.045,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "04:00",
+    "consumptionKWh": 0.039,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "05:00",
+    "consumptionKWh": 0.046,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "06:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "07:00",
+    "consumptionKWh": 0.037,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "08:00",
+    "consumptionKWh": 0.476,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "09:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "10:00",
+    "consumptionKWh": 0.049,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "11:00",
+    "consumptionKWh": 0.259,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "12:00",
+    "consumptionKWh": 0.585,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "13:00",
+    "consumptionKWh": 0.082,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "14:00",
+    "consumptionKWh": 1.104,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "15:00",
+    "consumptionKWh": 2.836,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "16:00",
+    "consumptionKWh": 0.511,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "17:00",
+    "consumptionKWh": 0.627,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "18:00",
+    "consumptionKWh": 0.404,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "19:00",
+    "consumptionKWh": 0.074,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "20:00",
+    "consumptionKWh": 0.628,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "21:00",
+    "consumptionKWh": 1.916,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "22:00",
+    "consumptionKWh": 1.631,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "23:00",
+    "consumptionKWh": 1.139,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/30",
+    "time": "24:00",
+    "consumptionKWh": 1.261,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "01:00",
+    "consumptionKWh": 0.051,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "02:00",
+    "consumptionKWh": 0.037,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "03:00",
+    "consumptionKWh": 0.057,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "04:00",
+    "consumptionKWh": 0.034,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "05:00",
+    "consumptionKWh": 0.052,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "06:00",
+    "consumptionKWh": 0.03,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "07:00",
+    "consumptionKWh": 0.05,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "08:00",
+    "consumptionKWh": 0.081,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "09:00",
+    "consumptionKWh": 0.06,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "10:00",
+    "consumptionKWh": 0.314,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "11:00",
+    "consumptionKWh": 0.526,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "12:00",
+    "consumptionKWh": 0.444,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "13:00",
+    "consumptionKWh": 0.784,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "14:00",
+    "consumptionKWh": 0.063,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "15:00",
+    "consumptionKWh": 1.011,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "16:00",
+    "consumptionKWh": 1.706,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "17:00",
+    "consumptionKWh": 0.923,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "18:00",
+    "consumptionKWh": 0.076,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "19:00",
+    "consumptionKWh": 0.072,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "20:00",
+    "consumptionKWh": 0.069,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "21:00",
+    "consumptionKWh": 0.06,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "22:00",
+    "consumptionKWh": 0.317,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "23:00",
+    "consumptionKWh": 2.187,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  },
+  {
+    "cups": "ES0021000000488639HR",
+    "date": "2025/03/31",
+    "time": "24:00",
+    "consumptionKWh": 0.587,
+    "obtainMethod": "",
+    "surplusEnergyKWh": null,
+    "generationEnergyKWh": null,
+    "selfConsumptionEnergyKWh": null
+  }
+]
