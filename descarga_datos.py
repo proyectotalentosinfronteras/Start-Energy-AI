@@ -42,32 +42,35 @@ from pathlib import Path
 
 import requests
 import pandas as pd
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ======================================================================
 # CONFIGURACIÓN — RELLENA AQUÍ TUS DATOS
 # ======================================================================
 
 # --- Rango de fechas para todas las descargas ---
+# --- Rango de fechas para todas las descargas ---
+# NOTA: PVGIS suele ir 1-2 años por detrás del año actual. Si cambias el año,
+# prueba primero solo PVGIS antes de correr todo el script.
 FECHA_INICIO = "2023-01-01"   # formato YYYY-MM-DD
 FECHA_FIN = "2023-01-31"      # formato YYYY-MM-DD
-
-DATADIS_FECHA_INICIO = "2025-03-01"   # formato YYYY-MM-DD
-DATADIS_FECHA_FIN = "2025-03-31"      # formato YYYY-MM-DD
 
 # --- Coordenadas de referencia (ejemplo: Alicante) ---
 LATITUD = 38.3452
 LONGITUD = -0.4810
 
-# --- ESIOS: solicita tu token a consultasios@ree.es ---
-ESIOS_TOKEN = os.getenv("ESIOS_TOKEN", "233de5c1a0795f0b86c850dfebbaefcfaf65661e614f0209cbb561ba80aed114")
+# --- ESIOS ---
+ESIOS_TOKEN = os.getenv("ESIOS_TOKEN")
 
-# --- AEMET: solicita tu API key en https://opendata.aemet.es ---
-AEMET_API_KEY = os.getenv("AEMET_API_KEY", "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjYW1pYW1vcmltc3VhcmV6QGdtYWlsLmNvbSIsImp0aSI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsImV4cCI6MTc5NDM5NzMyNywiaXNzIjoiQUVNRVQiLCJpYXQiOjE3ODU3NTczMjcsInVzZXJJZCI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsInJvbGUiOiIifQ.MI_3sJCteFvQN3p9LaYYJG0nI4uTtkxQC4rKXkveGsA")
-AEMET_ESTACION = "8025"  # Código de estación AEMET (ej. 8025 = Alicante/Elche aeropuerto)
+# --- AEMET ---
+AEMET_API_KEY = os.getenv("AEMET_API_KEY")
+AEMET_ESTACION = "8025"
 
-# --- Datadis: usuario y contraseña de tu cuenta en datadis.es ---
-DATADIS_NIF = os.getenv("DATADIS_NIF", "60550719E")
-DATADIS_PASSWORD = os.getenv("DATADIS_PASSWORD", "Start.Energy.2026*")
+# --- DATADIS ---
+DATADIS_NIF = os.getenv("DATADIS_NIF")
+DATADIS_PASSWORD = os.getenv("DATADIS_PASSWORD")
 
 # --- Carpeta raíz donde se guardan todos los datos ---
 CARPETA_DATOS = Path("data")
@@ -111,7 +114,11 @@ def descargar_ree(categoria, widget, nombre_archivo, time_trunc="hour"):
     """
     print(f"\n[REE] Descargando {categoria}/{widget} ...")
     url = f"https://apidatos.ree.es/es/datos/{categoria}/{widget}"
-    headers = {"Accept": "application/json", "Content-Type": "application/json"}
+    headers = {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (compatible; StartEnergyAI/1.0; academic project)",
+    }
     params = {
         "start_date": f"{FECHA_INICIO}T00:00",
         "end_date": f"{FECHA_FIN}T23:59",
@@ -162,41 +169,73 @@ def descargar_esios_indicador(indicador_id, nombre_archivo):
       549  -> Generación solar fotovoltaica
       600  -> Precio spot mercado diario
     Lista completa: https://api.esios.ree.es/indicators
-    """
-    if ESIOS_TOKEN.startswith("233de5c1a0795f0b86c850dfebbaefcfaf65661e614f0209cbb561ba80aed114"):
-        print(f"\n[ESIOS] Saltando indicador {indicador_id}: falta configurar ESIOS_TOKEN")
+    """ 
+    if not ESIOS_TOKEN:
+        print("\n[ESIOS] Saltando: falta configurar ESIOS_TOKEN")
         return None
-
     print(f"\n[ESIOS] Descargando indicador {indicador_id} ...")
+
     url = f"https://api.esios.ree.es/indicators/{indicador_id}"
+
     headers = {
         "Accept": "application/json; application/vnd.esios-api-v2+json",
         "Content-Type": "application/json",
         "x-api-key": ESIOS_TOKEN,
     }
+
     params = {
         "start_date": f"{FECHA_INICIO}T00:00:00",
         "end_date": f"{FECHA_FIN}T23:59:00",
     }
 
     try:
-        r = requests.get(url, headers=headers, params=params, timeout=30)
+        r = requests.get(
+            url,
+            headers=headers,
+            params=params,
+            timeout=30
+        )
+
         r.raise_for_status()
+
         data = r.json()
+
         guardar_json_crudo(f"esios_{nombre_archivo}", data)
 
         valores = data.get("indicator", {}).get("values", [])
+
         df = pd.DataFrame(valores)
+
         if not df.empty:
-            df = df.rename(columns={"datetime": "fecha", "value": "valor"})
-            df["fecha"] = pd.to_datetime(df["fecha"], utc=True)
-            df = df[["fecha", "valor", "geo_name"]].sort_values("fecha")
-        return guardar_csv(df, "esios", nombre_archivo)
+            df = df.rename(
+                columns={
+                    "datetime": "fecha",
+                    "value": "valor"
+                }
+            )
+
+            df["fecha"] = pd.to_datetime(
+                df["fecha"],
+                utc=True
+            )
+
+            df = df[
+                [
+                    "fecha",
+                    "valor",
+                    "geo_name"
+                ]
+            ].sort_values("fecha")
+
+        return guardar_csv(
+            df,
+            "esios",
+            nombre_archivo
+        )
 
     except requests.exceptions.RequestException as e:
         print(f"  [ERROR ESIOS] {e}")
         return None
-
 
 # ======================================================================
 # 3. AEMET OpenData (requiere API key)
@@ -204,44 +243,68 @@ def descargar_esios_indicador(indicador_id, nombre_archivo):
 
 def descargar_aemet_climatologia():
     """
-    Descarga la climatología diaria (incluye radiación cuando la estación
-    la reporta) de una estación AEMET en el rango de fechas configurado.
-    AEMET limita a series de hasta 5 años por petición; funciona en tramos.
+    Descarga la climatología diaria de AEMET.
     """
-    if AEMET_API_KEY.startswith("eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjYW1pYW1vcmltc3VhcmV6QGdtYWlsLmNvbSIsImp0aSI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsImV4cCI6MTc5NDM5NzMyNywiaXNzIjoiQUVNRVQiLCJpYXQiOjE3ODU3NTczMjcsInVzZXJJZCI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsInJvbGUiOiIifQ.MI_3sJCteFvQN3p9LaYYJG0nI4uTtkxQC4rKXkveGsA"):
+
+    if not AEMET_API_KEY:
         print("\n[AEMET] Saltando: falta configurar AEMET_API_KEY")
         return None
 
-    print(f"\n[AEMET] Descargando climatología estación {AEMET_ESTACION} ...")
-    headers = {"api_key": AEMET_API_KEY}
+    headers = {
+        "api_key": AEMET_API_KEY
+    }
+
     url = (
-        f"https://opendata.aemet.es/opendata/api/valores/climatologicos/diarios/"
-        f"datos/fechaini/{FECHA_INICIO}T00:00:00UTC/fechafin/{FECHA_FIN}T23:59:59UTC/"
+        f"https://opendata.aemet.es/opendata/api/"
+        f"valores/climatologicos/diarios/"
+        f"datos/fechaini/{FECHA_INICIO}T00:00:00UTC/"
+        f"fechafin/{FECHA_FIN}T23:59:59UTC/"
         f"estacion/{AEMET_ESTACION}"
     )
 
     try:
-        # Paso 1: AEMET devuelve una URL intermedia con los datos reales
-        r = requests.get(url, headers=headers, timeout=30)
+        # Primera petición: obtener URL de datos
+        r = requests.get(
+            url,
+            headers=headers,
+            timeout=30
+        )
+
         r.raise_for_status()
+
         meta = r.json()
 
         if meta.get("estado") != 200:
             print(f"  [AEMET] Respuesta inesperada: {meta}")
             return None
 
-        r_datos = requests.get(meta["datos"], headers=headers, timeout=30)
+        # Segunda petición: descargar datos reales
+        r_datos = requests.get(
+            meta["datos"],
+            headers=headers,
+            timeout=30
+        )
+
         r_datos.raise_for_status()
+
         data = r_datos.json()
-        guardar_json_crudo("aemet_climatologia", data)
+
+        guardar_json_crudo(
+            "aemet_climatologia",
+            data
+        )
 
         df = pd.DataFrame(data)
-        return guardar_csv(df, "aemet", "climatologia_diaria")
+
+        return guardar_csv(
+            df,
+            "aemet",
+            "climatologia_diaria"
+        )
 
     except requests.exceptions.RequestException as e:
         print(f"  [ERROR AEMET] {e}")
         return None
-
 
 # ======================================================================
 # 4. PVGIS API (sin token)
@@ -255,7 +318,7 @@ def descargar_pvgis_radiacion():
     """
     print(f"\n[PVGIS] Descargando radiación horaria para lat={LATITUD}, lon={LONGITUD} ...")
     anio = datetime.strptime(FECHA_FIN, "%Y-%m-%d").year
-    url = "https://re.jrc.ec.europa.eu/api/v5_3/seriescalc"
+    url = "https://re.jrc.ec.europa.eu/api/v5_2/seriescalc"
     params = {
         "lat": LATITUD,
         "lon": LONGITUD,
@@ -288,7 +351,7 @@ def descargar_pvgis_radiacion():
 def descargar_pvgis_potencial_fv(potencia_kwp=1):
     """Estimación de producción fotovoltaica para una instalación de referencia."""
     print(f"\n[PVGIS] Descargando estimación PV ({potencia_kwp} kWp) ...")
-    url = "https://re.jrc.ec.europa.eu/api/v5_3/PVcalc"
+    url = "https://re.jrc.ec.europa.eu/api/v5_2/PVcalc"
     params = {
         "lat": LATITUD,
         "lon": LONGITUD,
@@ -320,8 +383,9 @@ def descargar_datadis_consumo():
     Autentica contra Datadis y descarga el consumo horario de todos
     los puntos de suministro (CUPS) asociados a tu cuenta.
     """
-    if DATADIS_NIF.startswith("PON_AQUI"):
-        print("\n[DATADIS] Saltando: falta configurar DATADIS_NIF / DATADIS_PASSWORD")
+       
+    if not DATADIS_NIF or not DATADIS_PASSWORD:
+        print("\n[DATADIS] Saltando: falta configurar credenciales")
         return None
 
     print("\n[DATADIS] Autenticando ...")
@@ -356,8 +420,8 @@ def descargar_datadis_consumo():
         params = {
             "cups": cups,
             "distributorCode": distribuidora,
-            "startDate": DATADIS_FECHA_INICIO[:7].replace("-", "/"),
-            "endDate": DATADIS_FECHA_FIN[:7].replace("-", "/"),
+            "startDate": FECHA_INICIO[:7].replace("-", "/"),
+            "endDate": FECHA_FIN[:7].replace("-", "/"),
             "measurementType": 0,
             "pointType": supplies[0].get("pointType", 5),
         }
@@ -400,9 +464,9 @@ def main():
     if USAR_REE:
         resultados.append(descargar_ree("demanda", "demanda-tiempo-real", "demanda_horaria"))
         time.sleep(1)
-        resultados.append(descargar_ree("generacion", "estructura-generacion", "generacion_estructura", time_trunc="day"))
+        resultados.append(descargar_ree("generacion", "estructura-generacion", "generacion_estructura"))
         time.sleep(1)
-        resultados.append(descargar_ree("generacion", "evolucion-renovable-no-renovable", "renovable_vs_no_renovable", time_trunc="day"))
+        resultados.append(descargar_ree("generacion", "evolucion-renovable-no-renovable", "renovable_vs_no_renovable"))
 
     if USAR_ESIOS:
         resultados.append(descargar_esios_indicador(1293, "demanda_real"))
