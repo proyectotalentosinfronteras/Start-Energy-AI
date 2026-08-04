@@ -61,16 +61,12 @@ FECHA_FIN = "2023-01-31"      # formato YYYY-MM-DD
 LATITUD = 38.3452
 LONGITUD = -0.4810
 
-# --- ESIOS ---
-ESIOS_TOKEN = os.getenv("ESIOS_TOKEN")
+ESIOS_TOKEN = "233de5c1a0795f0b86c850dfebbaefcfaf65661e614f0209cbb561ba80aed114"
 
-# --- AEMET ---
-AEMET_API_KEY = os.getenv("AEMET_API_KEY")
-AEMET_ESTACION = "8025"
+AEMET_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjYW1pYW1vcmltc3VhcmV6QGdtYWlsLmNvbSIsImp0aSI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsImV4cCI6MTc5NDM5NzMyNywiaXNzIjoiQUVNRVQiLCJpYXQiOjE3ODU3NTczMjcsInVzZXJJZCI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsInJvbGUiOiIifQ.MI_3sJCteFvQN3p9LaYYJG0nI4uTtkxQC4rKXkveGsA"
 
-# --- DATADIS ---
-DATADIS_NIF = os.getenv("DATADIS_NIF")
-DATADIS_PASSWORD = os.getenv("DATADIS_PASSWORD")
+DATADIS_NIF = "60550719e
+DATADIS_PASSWORD = "Start.Energy.2026*"
 
 # --- Carpeta raíz donde se guardan todos los datos ---
 CARPETA_DATOS = Path("data")
@@ -178,10 +174,11 @@ def descargar_esios_indicador(indicador_id, nombre_archivo):
     url = f"https://api.esios.ree.es/indicators/{indicador_id}"
 
     headers = {
-        "Accept": "application/json; application/vnd.esios-api-v2+json",
-        "Content-Type": "application/json",
-        "x-api-key": ESIOS_TOKEN,
-    }
+    "Accept": "application/json; application/vnd.esios-api-v2+json",
+    "Content-Type": "application/json",
+    "x-api-key": ESIOS_TOKEN,
+    "User-Agent": "StartEnergyAI/1.0"
+}
 
     params = {
         "start_date": f"{FECHA_INICIO}T00:00:00",
