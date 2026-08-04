@@ -64,8 +64,9 @@ LONGITUD = -0.4810
 ESIOS_TOKEN = "233de5c1a0795f0b86c850dfebbaefcfaf65661e614f0209cbb561ba80aed114"
 
 AEMET_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjYW1pYW1vcmltc3VhcmV6QGdtYWlsLmNvbSIsImp0aSI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsImV4cCI6MTc5NDM5NzMyNywiaXNzIjoiQUVNRVQiLCJpYXQiOjE3ODU3NTczMjcsInVzZXJJZCI6ImE5NTY0ZmI3LTVkNTEtNDkzOS1hYWZiLTY2NzY3ZDA4NDVhNCIsInJvbGUiOiIifQ.MI_3sJCteFvQN3p9LaYYJG0nI4uTtkxQC4rKXkveGsA"
+AEMET_ESTACION = "8025"
 
-DATADIS_NIF = "60550719e
+DATADIS_NIF = "60550719E"
 DATADIS_PASSWORD = "Start.Energy.2026*"
 
 # --- Carpeta raíz donde se guardan todos los datos ---
@@ -309,62 +310,110 @@ def descargar_aemet_climatologia():
 
 def descargar_pvgis_radiacion():
     """
-    Descarga la serie horaria de radiación e irradiancia estimada para
-    las coordenadas configuradas. Usa el año completo más reciente
-    disponible en PVGIS (normalmente va 1-2 años por detrás del actual).
+    Descarga radiación solar horaria desde PVGIS.
     """
+
     print(f"\n[PVGIS] Descargando radiación horaria para lat={LATITUD}, lon={LONGITUD} ...")
-    anio = datetime.strptime(FECHA_FIN, "%Y-%m-%d").year
+
     url = "https://re.jrc.ec.europa.eu/api/v5_2/seriescalc"
+
     params = {
         "lat": LATITUD,
         "lon": LONGITUD,
-        "startyear": anio,
-        "endyear": anio,
-        "outputformat": "json",
+        "startyear": 2020,
+        "endyear": 2020,
+        "pvcalculation": 0,
+        "outputformat": "json"
     }
 
     try:
-        r = requests.get(url, params=params, timeout=60)
+        r = requests.get(
+            url,
+            params=params,
+            timeout=60
+        )
+
         r.raise_for_status()
+
         data = r.json()
-        guardar_json_crudo("pvgis_radiacion", data)
 
-        df = pd.DataFrame(data["outputs"]["hourly"])
-        df["time"] = pd.to_datetime(df["time"], format="%Y%m%d:%H%M", utc=True)
-        df = df.rename(columns={"time": "fecha", "G(i)": "irradiancia_wm2", "T2m": "temp_2m"})
+        guardar_json_crudo(
+            "pvgis_radiacion",
+            data
+        )
 
-        # Filtra al rango de fechas de interés
-        mask = (df["fecha"] >= FECHA_INICIO) & (df["fecha"] <= FECHA_FIN + " 23:59")
-        df_filtrado = df.loc[mask].copy() if mask.any() else df
+        df = pd.DataFrame(
+            data["outputs"]["hourly"]
+        )
 
-        return guardar_csv(df_filtrado, "pvgis", "radiacion_horaria")
+        df["time"] = pd.to_datetime(
+            df["time"],
+            format="%Y%m%d:%H%M",
+            utc=True
+        )
+
+        df = df.rename(
+            columns={
+                "time": "fecha",
+                "G(i)": "irradiancia_wm2",
+                "T2m": "temp_2m"
+            }
+        )
+
+        return guardar_csv(
+            df,
+            "pvgis",
+            "radiacion_horaria"
+        )
 
     except requests.exceptions.RequestException as e:
         print(f"  [ERROR PVGIS] {e}")
         return None
 
 
+
 def descargar_pvgis_potencial_fv(potencia_kwp=1):
-    """Estimación de producción fotovoltaica para una instalación de referencia."""
+    """
+    Estimación de producción fotovoltaica.
+    """
+
     print(f"\n[PVGIS] Descargando estimación PV ({potencia_kwp} kWp) ...")
+
     url = "https://re.jrc.ec.europa.eu/api/v5_2/PVcalc"
+
     params = {
         "lat": LATITUD,
         "lon": LONGITUD,
         "peakpower": potencia_kwp,
         "loss": 14,
-        "outputformat": "json",
+        "outputformat": "json"
     }
+
     try:
-        r = requests.get(url, params=params, timeout=60)
+        r = requests.get(
+            url,
+            params=params,
+            timeout=60
+        )
+
         r.raise_for_status()
+
         data = r.json()
-        guardar_json_crudo("pvgis_potencial_fv", data)
+
+        guardar_json_crudo(
+            "pvgis_potencial_fv",
+            data
+        )
 
         mensual = data["outputs"]["monthly"]["fixed"]
+
         df = pd.DataFrame(mensual)
-        return guardar_csv(df, "pvgis", "produccion_fv_mensual")
+
+        return guardar_csv(
+            df,
+            "pvgis",
+            "produccion_fv_mensual"
+        )
 
     except requests.exceptions.RequestException as e:
         print(f"  [ERROR PVGIS PV] {e}")
@@ -456,14 +505,17 @@ def main():
     USAR_ESIOS = True
     USAR_AEMET = True
     USAR_PVGIS = True
-    USAR_DATADIS = True
+    USAR_DATADIS = False
+
 
     if USAR_REE:
-        resultados.append(descargar_ree("demanda", "demanda-tiempo-real", "demanda_horaria"))
-        time.sleep(1)
-        resultados.append(descargar_ree("generacion", "estructura-generacion", "generacion_estructura"))
-        time.sleep(1)
-        resultados.append(descargar_ree("generacion", "evolucion-renovable-no-renovable", "renovable_vs_no_renovable"))
+        resultados.append(
+            descargar_ree(
+                "demanda",
+                "demanda-tiempo-real",
+                "demanda_horaria"
+            )
+        )
 
     if USAR_ESIOS:
         resultados.append(descargar_esios_indicador(1293, "demanda_real"))
