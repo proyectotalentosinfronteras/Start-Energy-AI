@@ -57,6 +57,9 @@ load_dotenv()
 FECHA_INICIO = "2023-01-01"   # formato YYYY-MM-DD
 FECHA_FIN = "2023-01-31"      # formato YYYY-MM-DD
 
+DATADIS_FECHA_INICIO = "2025-03-01"   # formato YYYY-MM-DD
+DATADIS_FECHA_FIN = "2025-03-31"      # formato YYYY-MM-DD
+
 # --- Coordenadas de referencia (ejemplo: Alicante) ---
 LATITUD = 38.3452
 LONGITUD = -0.4810
@@ -466,8 +469,8 @@ def descargar_datadis_consumo():
         params = {
             "cups": cups,
             "distributorCode": distribuidora,
-            "startDate": FECHA_INICIO[:7].replace("-", "/"),
-            "endDate": FECHA_FIN[:7].replace("-", "/"),
+            "startDate": DATADIS_FECHA_INICIO[:7].replace("-", "/"),
+            "endDate": DATADIS_FECHA_FIN[:7].replace("-", "/"),
             "measurementType": 0,
             "pointType": supplies[0].get("pointType", 5),
         }
@@ -505,17 +508,15 @@ def main():
     USAR_ESIOS = True
     USAR_AEMET = True
     USAR_PVGIS = True
-    USAR_DATADIS = False
+    USAR_DATADIS = True
 
 
     if USAR_REE:
-        resultados.append(
-            descargar_ree(
-                "demanda",
-                "demanda-tiempo-real",
-                "demanda_horaria"
-            )
-        )
+        resultados.append(descargar_ree("demanda", "demanda-tiempo-real", "demanda_horaria"))
+        time.sleep(1)
+        resultados.append(descargar_ree("generacion", "estructura-generacion", "generacion_estructura", time_trunc="day"))
+        time.sleep(1)
+        resultados.append(descargar_ree("generacion", "evolucion-renovable-no-renovable", "renovable_vs_no_renovable", time_trunc="day"))
 
     if USAR_ESIOS:
         resultados.append(descargar_esios_indicador(1293, "demanda_real"))
