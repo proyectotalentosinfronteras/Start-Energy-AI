@@ -1,5 +1,5 @@
 // dashboard/js/app.js - Lógica de Conexión de Start Energy AI
-const API_DASHBOARD = "http://127.0.0";
+const const API_DASHBOARD = "http://127.0.0.1:5000";
 let miGrafica = null; // Control de la instancia del gráfico
 
 async function consultarServidor() {
@@ -90,7 +90,7 @@ function dibujarGrafica(datosHorarios) {
                     label: 'Precio PVPC (€/MWh)',
                     data: curvaPrecio,
                     borderColor: '#f59e0b',
-                    borderDash:, // Línea discontinua elegante
+                    borderDash: [5, 5], // Define un patrón de trazo discontinuo
                     backgroundColor: 'transparent',
                     tension: 0.3,
                     yAxisID: 'y1' // Usa el eje derecho secundario para los costes

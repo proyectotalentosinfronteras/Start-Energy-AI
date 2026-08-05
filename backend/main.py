@@ -11,10 +11,11 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Configuración de CORS para permitir que tu index.html (Frontend) lea los datos sin bloqueos
+from fastapi.middleware.cors import CORSMiddleware
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Cambiar por dominios específicos en producción
+    allow_origins=["*"],  # Permite peticiones desde cualquier origen para desarrollo local
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
