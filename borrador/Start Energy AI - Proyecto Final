@@ -8,19 +8,19 @@
 > **Objetivo:** IA para la Predicción de Generación Fotovoltaica y Optimización del Consumo Energético.
 > 
 
-## 👥 1. Pair Programming
+## 👥 1. Desarrollo y foco principal
 
     - *Foco principal:* Ingesta de datos (descarga y validación de APIs REE / AEMET) y desarrollo del modelo de Machine Learning en Python (`/notebooks`).
-    - *Apoyo:* Revisión de código (Code Review) y preparación técnica del Demo Day.
+    - **Revisión* de código (Code Review) y preparación técnica del Demo Day.
 
     - *Foco principal:* Análisis Exploratorio de Datos (EDA) inicial ya estructurado, desarrollo de la aplicación web interactiva (`index.html`) en VS Code y diseño UI/UX.
-    - *Apoyo:* Documentación profesional del proyecto (`README.md`) y estructura general de entregas.
+    - **Documentación* profesional del proyecto (`README.md`) y estructura general de entregas.
 
 ## 📊 2. Tablero de Tareas (Kanban)
 
 *(Actualizado según progreso)*
 
-- [ ]  **Fase 1:** Definición exacta del caso de negocio y selección de tecnologías (VS Code + Jupyter).
+- [x]  **Fase 1:** Definición exacta del caso de negocio y selección de tecnologías (VS Code + Jupyter).
 - [ ]  **Fase 2 (En proceso):** Búsqueda, descarga de datasets reales (AEMET/REE) e integración en el Notebook ya preparado.
 - [ ]  **Fase 3:** Conexión de la lógica de datos del modelo con el panel interactivo web (`index.html`).
 - [ ]  **Fase 4:** Redacción completa del archivo `README.md` en el repositorio de GitHub.
@@ -37,7 +37,7 @@
 ## 🎤 4. Guion para el Demo Day (Estructura de la Presentación)
 
 1. **El Problema:** El reto del autoconsumo y el desperdicio de excedentes energéticos.
-2. **Nuestra Solución (Start Energy AI):** Cómo la IA y los datos previenen picos y optimizan el hogar.
+2. **Solución (Start Energy AI):** Cómo la IA y los datos previenen picos y optimizan el hogar.
 3. **Demostración Técnica:** Mostrar en vivo el repositorio de GitHub, el código del Notebook y el Dashboard interactivo (`index.html`).
 4. **Conclusiones y Futuro:** Impacto real en la factura de la luz y escalabilidad del proyecto.
 
@@ -55,8 +55,8 @@ y en paralelo solicita el token de ESIOS y la API key de AEMET por email,
 porque esos dos tardan en llegar (AEMET normalmente al momento, ESIOS hasta 24h).
 Datadis solo hace falta si el análisis necesita consumo a nivel de vivienda/CUPS concreto — si es consumo agregado nacional, ya lo cubre REE.
 
-- [ ]  **API REE (Red Eléctrica):** Descarga de datos de generación renovable y demanda horaria. *(Asignado a: [Escribe el nombre de quien lo hace])*
-- [ ]  **API AEMET:** Descarga de registros de radiación solar y temperaturas. *(Asignado a: [Escribe el nombre de quien lo hace])*
+- [x]  **API REE (Red Eléctrica):** Descarga de datos de generación renovable y demanda horaria.
+- [x]  **API AEMET:** Descarga de registros de radiación solar y temperaturas.
 - [ ]  **Fusión de datos:** Subir los CSV limpios a la carpeta `/data` del proyecto para que el Jupyter Notebook los lea de forma definitiva.
 
 # ✅ Checklist de Seguimiento - Start Energy AI
@@ -74,9 +74,9 @@ Datadis solo hace falta si el análisis necesita consumo a nivel de vivienda/CUP
 
 ### 🔍 Fase 3: Datos Reales (Pendiente / Siguientes pasos)
 
-- [ ]  Buscar y descargar datasets de la API de REE (Red Eléctrica).
-- [ ]  Buscar y descargar datasets de la API de AEMET (Radiación / Clima).
-- [ ]  Guardar los archivos CSV limpios en la carpeta `/data` del proyecto.
+- [x]  Buscar y descargar datasets de la API de REE (Red Eléctrica).
+- [x]  Buscar y descargar datasets de la API de AEMET (Radiación / Clima).
+- [x]  Guardar los archivos CSV limpios en la carpeta `/data` del proyecto.
 - [ ]  Conectar el Jupyter Notebook (`01_eda_start_energy.ipynb`) a los datos reales para actualizar las gráficas.
 
 ### Checklist de fuentes de datos
@@ -85,51 +85,51 @@ Datadis solo hace falta si el análisis necesita consumo a nivel de vivienda/CUP
 
 **No requiere token, acceso libre**
 
-- [ ]  Documentación: `https://www.ree.es/es/apidatos`
-- [ ]  Endpoint base: `https://apidatos.ree.es/es/datos/{categoria}/{widget}`
-- [ ]  Demanda horaria: `https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-01-01T00:00&end_date=2025-01-31T23:59&time_trunc=hour`
-- [ ]  Generación por tecnología: `https://apidatos.ree.es/es/datos/generacion/estructura-generacion?start_date=2025-01-01T00:00&end_date=2025-01-31T23:59&time_trunc=hour`
-- [ ]  Renovable vs no renovable: `https://apidatos.ree.es/es/datos/generacion/evolucion-renovable-no-renovable`
+- [x]  Documentación: `https://www.ree.es/es/apidatos`
+- [x]  Endpoint base: `https://apidatos.ree.es/es/datos/{categoria}/{widget}`
+- [x]  Demanda horaria: `https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2025-01-01T00:00&end_date=2025-01-31T23:59&time_trunc=hour`
+- [x]  Generación por tecnología: `https://apidatos.ree.es/es/datos/generacion/estructura-generacion?start_date=2025-01-01T00:00&end_date=2025-01-31T23:59&time_trunc=hour`
+- [x]  Renovable vs no renovable: `https://apidatos.ree.es/es/datos/generacion/evolucion-renovable-no-renovable`
 
 #### 2. ESIOS (REE) — indicadores detallados (precio, generación por hora, +500 indicadores)
 
 **Requiere token personal**
 
-- [ ]  Documentación oficial: https://api.esios.ree.es/ Ree
-- [ ]  Página de solicitud de token: `https://www.esios.ree.es/es/pagina/api`
-- [ ]  Solicitar token enviando email a: consultasios@ree.es GitHub
-- [ ]  Endpoint indicadores: `https://api.esios.ree.es/indicators`
-- [ ]  Ejemplo indicador (demanda real, id 1293): `https://api.esios.ree.es/indicators/1293?start_date=2025-01-01T00:00&end_date=2025-01-07T23:59`
+- [x]  Documentación oficial: https://api.esios.ree.es/ Ree
+- [x]  Página de solicitud de token: `https://www.esios.ree.es/es/pagina/api`
+- [x]  Solicitar token enviando email a: consultasios@ree.es GitHub
+- [x]  Endpoint indicadores: `https://api.esios.ree.es/indicators`
+- [x]  Ejemplo indicador (demanda real, id 1293): `https://api.esios.ree.es/indicators/1293?start_date=2025-01-01T00:00&end_date=2025-01-07T23:59`
 - Nota: en headers hay que enviar `x-api-key: TU_TOKEN` y `Host: api.esios.ree.es`
 
 #### 3. AEMET OpenData — radiación y clima
 
 **Requiere API Key (gratuita, válida 3 meses)**
 
-- [ ]  Portal principal: `https://opendata.aemet.es/centrodedescargas/inicio`
-- [ ]  Solicitud de API Key desde la opción "Obtención de API Key" introduciendo tu email Aemet
-- [ ]  Documentación/especificación OpenAPI: `https://opendata.aemet.es/AEMET_OpenData_specification.json`
-- [ ]  Radiación y observación de fondo: `https://opendata.aemet.es/opendata/api/observacion/convencional/todas`
-- [ ]  Climatología diaria por estación: `https://opendata.aemet.es/opendata/api/valores/climatologicos/diarios/datos/fechaini/{fecha1}/fechafin/{fecha2}/estacion/{idema}`
+- [x]  Portal principal: `https://opendata.aemet.es/centrodedescargas/inicio`
+- [x]  Solicitud de API Key desde la opción "Obtención de API Key" introduciendo tu email Aemet
+- [x]  Documentación/especificación OpenAPI: `https://opendata.aemet.es/AEMET_OpenData_specification.json`
+- [x]  Radiación y observación de fondo: `https://opendata.aemet.es/opendata/api/observacion/convencional/todas`
+- [x]  Climatología diaria por estación: `https://opendata.aemet.es/opendata/api/valores/climatologicos/diarios/datos/fechaini/{fecha1}/fechafin/{fecha2}/estacion/{idema}`
 - Nota: las descargas de climatologías diarias permiten series de hasta 5 años por petición AEMET
 
 #### 4. Datadis — consumo eléctrico (por CUPS/vivienda)
 
 **Requiere registro con NIF**
 
-- [ ]  Portal y registro: `https://www.datadis.es`
-- [ ]  Al registrarte hay que marcar la casilla de acceso vía API (si vas a consumir por API, no solo por la web) Lacorrientecoop
-- [ ]  Documentación de la API (dentro del área privada, sección "API")
+- [x]  Portal y registro: `https://www.datadis.es`
+- [x]  Al registrarte hay que marcar la casilla de acceso vía API (si vas a consumir por API, no solo por la web) Lacorrientecoop
+- [x]  Documentación de la API (dentro del área privada, sección "API")
 - Nota: es la fuente estándar de consumo eléctrico horario a nivel de punto de suministro en España; si tu proyecto necesita consumo nacional/agregado en vez de doméstico, la demanda de REE (punto 1) ya cubre eso.
 
 #### 5. PVGIS (Comisión Europea) — potencial fotovoltaico y radiación solar
 
 **No requiere token, acceso libre**
 
-- [ ]  Herramienta web: `https://re.jrc.ec.europa.eu/pvg_tools/en/`
-- [ ]  Documentación API: `https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis/getting-started-pvgis/api-non-interactive-service_en`
-- [ ]  Endpoint radiación horaria (`seriescalc`): `https://re.jrc.ec.europa.eu/api/v5_2/seriescalc?lat={lat}&lon={lon}&startyear=2024&endyear=2024&outputformat=json`
-- [ ]  Endpoint producción PV estimada (`PVcalc`): `https://re.jrc.ec.europa.eu/api/v5_2/PVcalc?lat={lat}&lon={lon}&peakpower=1&loss=14&outputformat=json`
+- [x]  Herramienta web: `https://re.jrc.ec.europa.eu/pvg_tools/en/`
+- [x]  Documentación API: `https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis/getting-started-pvgis/api-non-interactive-service_en`
+- [x]  Endpoint radiación horaria (`seriescalc`): `https://re.jrc.ec.europa.eu/api/v5_2/seriescalc?lat={lat}&lon={lon}&startyear=2024&endyear=2024&outputformat=json`
+- [x]  Endpoint producción PV estimada (`PVcalc`): `https://re.jrc.ec.europa.eu/api/v5_2/PVcalc?lat={lat}&lon={lon}&peakpower=1&loss=14&outputformat=json`
 
 ### 🔗 Fase 4: Integración y Producto Final
 
