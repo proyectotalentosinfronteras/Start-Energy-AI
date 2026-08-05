@@ -1,4 +1,4 @@
-# Start Energy AI — Descarga de datos multi-fuente
+# Start Energy AI — Descarga de datos multifuente
 
 Script de descarga automática para el proyecto final. Descarga datos reales de:
 
