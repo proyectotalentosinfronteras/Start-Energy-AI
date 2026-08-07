@@ -21,7 +21,7 @@
 *(Actualizado según progreso)*
 
 - [x]  **Fase 1:** Definición exacta del caso de negocio y selección de tecnologías (VS Code + Jupyter).
-- [ ]  **Fase 2 (En proceso):** Búsqueda, descarga de datasets reales (AEMET/REE) e integración en el Notebook ya preparado.
+- [x]  **Fase 2 (En proceso):** Búsqueda, descarga de datasets reales (AEMET/REE) e integración en el Notebook ya preparado.
 - [ ]  **Fase 3:** Conexión de la lógica de datos del modelo con el panel interactivo web (`index.html`).
 - [ ]  **Fase 4:** Redacción completa del archivo `README.md` en el repositorio de GitHub.
 - [ ]  **Fase 5:** Ensayar la presentación oral y el guion técnico para el **Demo Day**.
