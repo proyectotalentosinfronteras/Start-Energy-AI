@@ -1,122 +1,75 @@
 // dashboard/js/app.js - Lógica de Conexión de Start Energy AI
-const const API_DASHBOARD = "http://127.0.0.1:5000";
+const API_DASHBOARD = "http://127.0.0.1:8000";
 let miGrafica = null; // Control de la instancia del gráfico
 
 async function consultarServidor() {
     try {
         console.log("Conectando con el backend de Start Energy AI...");
-        const respuesta = await fetch(API_DASHBOARD);
+        const respuesta = await fetch(`${API_DASHBOARD}/api/v1/dashboard-data`);
         if (!respuesta.ok) throw new Error(`Error en servidor: ${respuesta.status}`);
         
         const resultado = await respuesta.json();
-        console.log("Datos recibidos:", resultado.data);
+        console.log("Datos recibidos:", resultado);
         
-        // 1. Rellenar las tarjetas de texto de tu HTML original
-        actualizarPantalla(resultado.data);
+        // 1. Rellenar las tarjetas de texto y KPIs
+        actualizarPantalla(resultado);
         
-        // 2. Pintar la gráfica con las 3 curvas (Consumo, Solar e Inteligencia PVPC)
-        dibujarGrafica(resultado.data);
+        // 2. Pintar la gráfica con el histórico y predicciones unificadas
+        dibujarGrafica(resultado.historico);
 
     } catch (error) {
         console.error("Fallo de conexión con la API:", error);
     }
 }
 
-function actualizarPantalla(datosHorarios) {
-    if (!datosHorarios || datosHorarios.length === 0) return;
-    const estadoActual = datosHorarios[datosHorarios.length - 1];
+function actualizarPantalla(data) {
+    if (!data) return;
     
-    // Mapea los valores hacia los IDs que añadiste en tu HTML
-    mapearTexto("consumo-actual", `${estadoActual.consumo_casa_datadis_kwh.toFixed(2)} kWh`);
-    mapearTexto("generacion-actual", `${estadoActual.solar_esios_kwh.toFixed(2)} kWh`);
-    mapearTexto("precio-actual", `${estadoActual.precio_pvpc_mwh ? estadoActual.precio_pvpc_mwh.toFixed(2) : '120.00'} €/MWh`);
-    mapearTexto("temperatura-exterior", `${estadoActual.tmed ? estadoActual.tmed.toFixed(1) : '--'} °C`);
+    // Mapeo utilizando la estructura JSON unificada que definimos
+    mapearTexto("consumo-actual", `${data.actual.consumo} kWh`);
+    mapearTexto("generacion-actual", `${data.actual.generacion_solar} kWh`);
+    mapearTexto("precio-actual", `${data.actual.precio_energia} €/kWh`);
+    mapearTexto("temperatura-exterior", `${data.actual.temperatura} °C`);
     
-    // Algoritmo básico de optimización de excedentes en base a tu IA
-    const balance = estadoActual.solar_esios_kwh - estadoActual.consumo_casa_datadis_kwh;
     const elementoConsejo = document.getElementById("recomendacion-ia");
-    if (elementoConsejo) {
-        if (balance > 0) {
-            elementoConsejo.innerText = `💡 Excedente de ${balance.toFixed(2)} kWh detectado. ¡Momento óptimo para programar consumos!`;
-            elementoConsejo.style.color = "#2ecc71"; // Cambia el texto a verde automáticamente
-        } else {
-            elementoConsejo.innerText = "📉 Consumo superior a la generación. Modera cargas o espera a horas con PVPC más económico.";
-            elementoConsejo.style.color = "#e74c3c"; // Cambia el texto a rojo automáticamente
-        }
+    if (elementoConsejo && data.alertas && data.alertas.length > 0) {
+        elementoConsejo.innerText = `💡 ${data.alertas[0].mensaje}`;
+        elementoConsejo.style.color = "#2ecc71";
     }
 }
 
-function dibujarGrafica(datosHorarios) {
+function dibujarGrafica(historico) {
     const ctx = document.getElementById('graficaEnergia');
-    if (!ctx) return;
+    if (!ctx || !historico) return;
 
-    // Convertimos la estampa de tiempo del CSV en horas legibles (Ej: "14:00")
-    const etiquetasHoras = datosHorarios.map(d => {
-        const fecha = new Date(d.datetime_clean);
-        return `${fecha.getHours()}:00`;
-    });
-
-    const curvaConsumo = datosHorarios.map(d => d.consumo_casa_datadis_kwh);
-    const curvaSolar = datosHorarios.map(d => d.solar_esios_kwh);
-    const curvaPrecio = datosHorarios.map(d => d.precio_pvpc_mwh || 120.00);
-
-    if (miGrafica) miGrafica.destroy(); // Limpia la gráfica vieja para evitar fallos de renderizado
+    if (miGrafica) miGrafica.destroy();
 
     miGrafica = new Chart(ctx, {
         type: 'line',
         data: {
-            labels: etiquetasHoras,
+            labels: historico.fechas,
             datasets: [
                 {
                     label: 'Consumo (kWh)',
-                    data: curvaConsumo,
-                    borderColor: '#rose-500', // Sincronizado con estilos de Tailwind
+                    data: historico.consumo,
                     borderColor: '#ef4444',
                     backgroundColor: 'rgba(239, 68, 68, 0.05)',
                     tension: 0.3,
-                    fill: true,
-                    yAxisID: 'y' // Usa el eje izquierdo de potencia
+                    fill: true
                 },
                 {
-                    label: 'Producción IA (kWh)',
-                    data: curvaSolar,
+                    label: 'Producción Solar (kWh)',
+                    data: historico.generacion_solar,
                     borderColor: '#fbbf24',
                     backgroundColor: 'rgba(251, 191, 36, 0.05)',
                     tension: 0.3,
-                    fill: true,
-                    yAxisID: 'y' // Usa el eje izquierdo de potencia
-                },
-                {
-                    label: 'Precio PVPC (€/MWh)',
-                    data: curvaPrecio,
-                    borderColor: '#f59e0b',
-                    borderDash: [5, 5], // Define un patrón de trazo discontinuo
-                    backgroundColor: 'transparent',
-                    tension: 0.3,
-                    yAxisID: 'y1' // Usa el eje derecho secundario para los costes
+                    fill: true
                 }
             ]
         },
         options: {
             responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                y: {
-                    type: 'linear',
-                    display: true,
-                    position: 'left',
-                    title: { display: true, text: 'Potencia / Energía (kWh)' },
-                    beginAtZero: true
-                },
-                y1: {
-                    type: 'linear',
-                    display: true,
-                    position: 'right',
-                    title: { display: true, text: 'Coste del Mercado (€/MWh)' },
-                    grid: { drawOnChartArea: false }, // Evita que se crucen las líneas de cuadrícula
-                    beginAtZero: false
-                }
-            }
+            maintainAspectRatio: false
         }
     });
 }
@@ -128,4 +81,3 @@ function mapearTexto(idElemento, texto) {
 
 // Escuchador de carga inicial
 document.addEventListener("DOMContentLoaded", consultarServidor);
-
